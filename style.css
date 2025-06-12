@@ -8,3 +8,33 @@ body {
     bottom: 0;
     width: 100%;
 }
+.mapPopup {
+    width: 10rem;
+    height: 10rem;
+}
+#info-tab {
+    position: fixed;
+    z-index: 10;
+    width: 250px;
+    visibility: visible;
+    opacity: 1;
+}
+.info-tab-hidden {
+    visibility: hidden;
+    opacity: 0;
+}
+#cursorCoordBox {
+    position: fixed;
+    bottom: 35px;
+    left: 7px;
+    z-index: 10;
+    display: flex;
+    background-color: black;
+    opacity: .65;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+}
+#cursorCoordBox > p {
+    margin: 7px;
+}

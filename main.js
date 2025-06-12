@@ -23,6 +23,7 @@ map.on('load', () => {
         '#fbb4ae', '#b3cde3', '#ccebc5', '#decbe4', 
         '#fed9a6', '#ffffcc', '#e5d8bd', '#fddaec'
       ];
+      // Collects a set of all unique ages and rock types from geojson data
       const uniqueAges = new Set();
       const uniqueRockTypes = new Set();
       for (const feature of geologyData.features) {
@@ -66,4 +67,39 @@ map.on('load', () => {
     .catch(error => {
       console.error('Error loading the geology data:', error);
     });
+
+  let curMarker = null;
+  map.on('click', 'geology-polygons-layer', (e) => {
+    // Creates marker and deletes all previous ones
+    if (curMarker != null) { curMarker.remove(); }
+    curMarker = new mapboxgl.Marker()
+      .setLngLat(e.lngLat)
+      .addTo(map)
+
+    const infoTab = document.getElementById("info-tab");
+    const featureProperties = e.features[0].properties;
+    const infoTabHTML = `
+      <p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1}</p>
+      <p><strong>Age:</strong> ${featureProperties.UNIT_AGE}</p>
+      `
+    infoTab.innerHTML = infoTabHTML;
+    infoTab.className = '';
+  });
+
+  map.on('mouseenter', 'geology-polygons-layer', () => {
+    map.getCanvas().style.cursor = 'pointer';
+  })
+
+  map.on('mouseleave', 'geology-polygons-layer', () => {
+    map.getCanvas().style.cursor = '';
+  })
+
+  const coordBox = document.getElementById("cursorCoordBox");
+  map.on('mousemove', (e) => {
+    let cursorCoords = e.lngLat.wrap();
+    coordBox.innerHTML = `
+    <p>Lng: ${cursorCoords.lng.toFixed(4)}</p>
+    <p>Lat: ${cursorCoords.lat.toFixed(4)}</p>
+    `;
+  })
 });
