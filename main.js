@@ -68,22 +68,31 @@ map.on('load', () => {
       console.error('Error loading the geology data:', error);
     });
 
+  // Creates marker and deletes previous one
   let curMarker = null;
   map.on('click', 'geology-polygons-layer', (e) => {
-    // Creates marker and deletes all previous ones
     if (curMarker != null) { curMarker.remove(); }
     curMarker = new mapboxgl.Marker()
       .setLngLat(e.lngLat)
       .addTo(map)
 
+    // Displays information tab
     const infoTab = document.getElementById("info-tab");
     const featureProperties = e.features[0].properties;
-    const infoTabHTML = `
-      <p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1}</p>
+    infoTab.innerHTML = `
+      <button id="info-tab-close" type="button" class="btn-close" aria-label="Close">X</button>
+      <p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>
       <p><strong>Age:</strong> ${featureProperties.UNIT_AGE}</p>
-      `
-    infoTab.innerHTML = infoTabHTML;
-    infoTab.className = '';
+      `;
+    // infoTab.classList.remove('is-hidden');
+    infoTab.classList.add('is-visible');
+
+    // Set up close button
+    const closeButton = document.getElementById("info-tab-close");
+    closeButton.addEventListener('click', () => {
+      infoTab.classList.remove('is-visible');
+      // infoTab.classList.add('is-hidden');
+    }) 
   });
 
   map.on('mouseenter', 'geology-polygons-layer', () => {
@@ -94,6 +103,7 @@ map.on('load', () => {
     map.getCanvas().style.cursor = '';
   })
 
+  // Sends mouse coordinates to coordinate box
   const coordBox = document.getElementById("cursorCoordBox");
   map.on('mousemove', (e) => {
     let cursorCoords = e.lngLat.wrap();
