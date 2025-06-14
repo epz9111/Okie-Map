@@ -31,6 +31,16 @@ map.on('load', () => {
         uniqueRockTypes.add(feature.properties.ROCKTYPE1);
         uniqueRockTypes.add(feature.properties.ROCKTYPE2);
       }
+      const ageTimeScale = new Map();
+      fetch('https://macrostrat.org/api/v2/defs/intervals?all')
+        .then(response => response.json())
+        .then(ageData => {
+          for (const interval of ageData.success.data) {
+            if (uniqueAges.has(interval.name)) {
+              ageTimeScale.set(interval.name, { start: interval.b_age, end: interval.t_age });
+            }
+          }
+        })
 
       // Builds fill-color attribute for geography layer
       let rockTypeFillColor = ['match', ['get', 'ROCKTYPE1']];
@@ -62,54 +72,52 @@ map.on('load', () => {
       });
 
       console.log("Geology layer has been added to the map.");
+      // Creates marker and deletes previous one
+      let curMarker = null;
+      map.on('click', 'geology-polygons-layer', (e) => {
+        if (curMarker != null) { curMarker.remove(); }
+        curMarker = new mapboxgl.Marker()
+          .setLngLat(e.lngLat)
+          .addTo(map)
 
+        // Displays information tab
+        const infoTab = document.getElementById("info-tab");
+        const featureProperties = e.features[0].properties;
+        infoTab.innerHTML = `
+          <button id="info-tab-close" type="button" class="btn-close" aria-label="Close">X</button>
+          <p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>
+          <p><strong>Age:</strong> ${featureProperties.UNIT_AGE} ${ageTimeScale.get(featureProperties.UNIT_AGE).start}Ma - ${ageTimeScale.get(featureProperties.UNIT_AGE).end}Ma</p>
+          `;
+        infoTab.classList.add('is-visible');
+
+        // Set up close button
+        const closeButton = document.getElementById("info-tab-close");
+        closeButton.addEventListener('click', () => {
+          infoTab.classList.remove('is-visible');
+        }) 
+      });
+
+      map.on('mouseenter', 'geology-polygons-layer', () => {
+        map.getCanvas().style.cursor = 'pointer';
+      })
+
+      map.on('mouseleave', 'geology-polygons-layer', () => {
+        map.getCanvas().style.cursor = '';
+      })
+
+      // Sends mouse coordinates to coordinate box
+      const coordBox = document.getElementById("cursorCoordBox");
+      map.on('mousemove', (e) => {
+        let cursorCoords = e.lngLat.wrap();
+        coordBox.innerHTML = `
+        <p>Lng: ${cursorCoords.lng.toFixed(4)}</p>
+        <p>Lat: ${cursorCoords.lat.toFixed(4)}</p>
+        `;
+      })
     })
     .catch(error => {
       console.error('Error loading the geology data:', error);
     });
 
-  // Creates marker and deletes previous one
-  let curMarker = null;
-  map.on('click', 'geology-polygons-layer', (e) => {
-    if (curMarker != null) { curMarker.remove(); }
-    curMarker = new mapboxgl.Marker()
-      .setLngLat(e.lngLat)
-      .addTo(map)
-
-    // Displays information tab
-    const infoTab = document.getElementById("info-tab");
-    const featureProperties = e.features[0].properties;
-    infoTab.innerHTML = `
-      <button id="info-tab-close" type="button" class="btn-close" aria-label="Close">X</button>
-      <p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>
-      <p><strong>Age:</strong> ${featureProperties.UNIT_AGE}</p>
-      `;
-    // infoTab.classList.remove('is-hidden');
-    infoTab.classList.add('is-visible');
-
-    // Set up close button
-    const closeButton = document.getElementById("info-tab-close");
-    closeButton.addEventListener('click', () => {
-      infoTab.classList.remove('is-visible');
-      // infoTab.classList.add('is-hidden');
-    }) 
-  });
-
-  map.on('mouseenter', 'geology-polygons-layer', () => {
-    map.getCanvas().style.cursor = 'pointer';
-  })
-
-  map.on('mouseleave', 'geology-polygons-layer', () => {
-    map.getCanvas().style.cursor = '';
-  })
-
-  // Sends mouse coordinates to coordinate box
-  const coordBox = document.getElementById("cursorCoordBox");
-  map.on('mousemove', (e) => {
-    let cursorCoords = e.lngLat.wrap();
-    coordBox.innerHTML = `
-    <p>Lng: ${cursorCoords.lng.toFixed(4)}</p>
-    <p>Lat: ${cursorCoords.lat.toFixed(4)}</p>
-    `;
-  })
+  
 });
