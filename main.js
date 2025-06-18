@@ -31,14 +31,39 @@ map.on('load', () => {
         uniqueRockTypes.add(feature.properties.ROCKTYPE1);
         uniqueRockTypes.add(feature.properties.ROCKTYPE2);
       }
+
+      // Iterates through Legend and its assoc. data
+      const labels = new Map();
+      fetch('data/OKUnitsFull.json')
+        .then(response => response.json())
+        .then(legendData => {
+          
+          console.log("Legend data loaded successfully:", legendData);
+
+          // Creates map of Unit label -> {unitName, unitDescription}
+          for (const label of legendData) {
+            labels.set(label.code, {unitName: label.name, unitDescription: label.description});
+          }
+        })
+
+      // Calls MacroStrat API for time unit data
+      // const ageTimeScale = new Map();
+      // fetch('https://macrostrat.org/api/v2/defs/intervals?all')
+      //   .then(response => response.json())
+      //   .then(ageData => {
+      //     for (const interval of ageData.success.data) {
+      //       if (uniqueAges.has(interval.name)) {
+      //         ageTimeScale.set(interval.name, { start: interval.b_age, end: interval.t_age });
+      //       }
+      //     }
+      //   })
+      
       const ageTimeScale = new Map();
-      fetch('https://macrostrat.org/api/v2/defs/intervals?all')
+      fetch('data/OKage.json')
         .then(response => response.json())
         .then(ageData => {
-          for (const interval of ageData.success.data) {
-            if (uniqueAges.has(interval.name)) {
-              ageTimeScale.set(interval.name, { start: interval.b_age, end: interval.t_age });
-            }
+          for (const unit of ageData) {
+            ageTimeScale.set(unit.UNIT_LINK, {start: unit.MAX_MA, end: unit.MIN_MA})
           }
         })
 
@@ -80,14 +105,20 @@ map.on('load', () => {
           .setLngLat(e.lngLat)
           .addTo(map)
 
-        // Displays information tab
+        // Displays marker information on info tab
         const infoTab = document.getElementById("info-tab");
         const featureProperties = e.features[0].properties;
-        infoTab.innerHTML = `
-          <button id="info-tab-close" type="button" class="btn-close" aria-label="Close">X</button>
-          <p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>
-          <p><strong>Age:</strong> ${featureProperties.UNIT_AGE} ${ageTimeScale.get(featureProperties.UNIT_AGE).start}Ma - ${ageTimeScale.get(featureProperties.UNIT_AGE).end}Ma</p>
-          `;
+        infoTab.innerHTML = ``;
+          
+          infoTab.innerHTML += `<button id="info-tab-close" type="button" class="btn-close" aria-label="Close">X</button>`
+          infoTab.innerHTML += `<p><strong>${featureProperties.ORIG_LABEL}</strong></p>`
+          infoTab.innerHTML += `<p><strong>${labels.get(featureProperties.ORIG_LABEL).unitName}</strong></p>`
+          if (featureProperties.ORIG_LABEL != "WATER") {
+            infoTab.innerHTML += `<p><strong>Age:</strong> ${featureProperties.UNIT_AGE}</p>`
+            infoTab.innerHTML += `<p class="unit-age-text">${ageTimeScale.get(featureProperties.UNIT_LINK).start} Ma - ${ageTimeScale.get(featureProperties.UNIT_LINK).end} Ma</p>`
+            infoTab.innerHTML += `<p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>`
+            infoTab.innerHTML += `<p><strong>Description: </strong>${labels.get(featureProperties.ORIG_LABEL).unitDescription}</p>`
+          }
         infoTab.classList.add('is-visible');
 
         // Set up close button

@@ -1,0 +1,1559 @@
+[
+  {
+    "code": "Qa",
+    "name": "Alluvium",
+    "series": "Quaternary",
+    "max_age": "Holocene",
+    "min_age": "Holocene",
+    "lithology": "Alluvium",
+    "description": "CIMARRON- Clay, silt, sand, and gravel 0 to 100 feet thick.  TEXAS- Sand, silt, clay, and gravel located in valleys of principal streams.  Thickness not known but may exceed 100 feet in North Canadian River valley and may be 50 to 100 feet in lower parts of valleys of Coldwater and Palo Duro Creeks.  BEAVER - Sand, gravel, silt, and clay in discontinuous lenses along courses of larger streams. 0-50 feet thick. "
+  },
+  {
+    "code": "Qal",
+    "name": "Alluvium",
+    "series": "Quaternary",
+    "max_age": "Holocene",
+    "min_age": "Holocene",
+    "lithology": "Alluvium",
+    "description": "WOODWARD- Lenticular and interfingering deposits of gravel, sand, silt, and clay. Generally light-tan to gray. Thickness along major streams ranges up to 100 feet and probably averages 40 feet; along minor streams the thickness ranges up to 45 feet and probably averages 20 feet.  ENID- Sand, silt, clay, and locally gravel. Maximum thickness ranges from 30 to 80 feet (9 to 24 m) along major streams and from 0 to 60 feet (0 to 18 m) along minor streams.  TULSA- Gravel, sand, silt, and clay.  CLINTON- Stream-laid deposits of sand, silt, clay, and gravel; thickness ranges from 0 to about 170 feet.  OKLAHOMA CITY- Sand, silt, clay, and lenticular beds of gravel. Thickness ranges from about 30 to 100 feet and probably averages about 50 feet along major streams. Along minor streams, thickness ranges from a few feet to about 50 feet and probably averages about 25 feet.  LAWTON- Sand, clay, and gravel as much as 50 feet (15 m) thick; Shown only along major streams and tributaries.  ARDMORE-SHERMAN- Gravel, sand, silt, and clay, including low terraces; thickness, about 25 to 100 feet.  McALESTER TEXARKANA- Gravel, sand, silt, and clay, including low terraces about 30 feet above channels; thickness, about 50 feet along Little River and 110 feet along Red River. "
+  },
+  {
+    "code": "Qd",
+    "name": "Dune Sand",
+    "series": "Quaternary",
+    "max_age": "Pleistocene",
+    "min_age": "Pleistocene",
+    "lithology": "Dune Sand",
+    "description": "CIMARRON- Fine- to medium-grained sand 0 to 40 feet thick.  TEXAS- Fine to coarse windblown sand. Maximum thickness about 30 feet.  BEAVER- Fine to coarse, round to sub-round, windblown sand consisting mostly of quartz grains. 0-50 feet thick. "
+  },
+  {
+    "code": "Qds",
+    "name": "Dune Sand",
+    "series": "Quaternary",
+    "max_age": "Pleistocene",
+    "min_age": "Pleistocene",
+    "lithology": "Dune Sand",
+    "description": "CLINTON- Wind-blown sand; thickness ranges from a thin Veneer to about 70 feet.  LAWTON- Wind-laid sand; maximum thickness about 50 feet (15 m). "
+  },
+  {
+    "code": "Qt",
+    "name": "Terrace Deposits",
+    "series": "Quaternary",
+    "max_age": "Pleistocene",
+    "min_age": "Pleistocene",
+    "lithology": "Gravel, sand, silt, and clay",
+    "description": "WOODWARD- Lenticular and interfingering deposits of light-tan to gray gravel, sand, silt, clay, and volcanic ash. Sand dunes are common in many places. Thickness ranges up to 150 feet and averages about 60 feet.  ENID- Sand, silt, clay, and gravel. Maximum thickness, about 75 feet (23 m) along major streams. TULSA- Fine gravel, sand, silt, and clay. CLINTON- Stream-laid deposits of sand, silt, clay, gravel, and volcanic ash; thickness ranges from 0 to about 120 feet.  OKLAHOMA CITY- Lenticular beds of sand, silt, clay, and gravel. Thickness ranges from a few feet to about 100 feet and probably averages about 50 feet along major streams.  FORT SMITH- Gravel, sand, silt, and clay. LAWTON- Sand, clay, and gravel as much as 75 feet (23 m) in Tillman County, ranging from 5 to 50 feet (2 to 15 m) elsewhere.  ARDMORE-SHERMAN- Gravel, sand, silt, clay, and volcanic ash; thickness, about 5 to 50 feet; at various levels, as high as 160 feet above present flood plains.  McALESTER TEXARKANA- Gravel, sand, silt, clay, and volcanic ash; several levels 20 to 160 feet or more above present flood plains, with each level containing deposits that average 20 to 30 feet in thickness, some windblown sand on top; may include colluvial wash down sides of hills. "
+  },
+  {
+    "code": "Tb",
+    "name": "Basalt",
+    "series": "Tertiary",
+    "max_age": "Pliocene",
+    "min_age": "Pliocene",
+    "lithology": "Basalt",
+    "description": "CIMARRON- Dark, dense to vesicular volcanic rock 50 to 85 +/- feet thick forming cap rock of Black Mesa.  Comments: Raton Basalt: Is oldest (of three) basaltic to latiandesitic effusive rock unit mapped in western part of Raton-Clayton volcanic field, Colfax Co, NM in Las Vegas-Raton basin.  Caps highest and longest mesas in area. Includes many sheets of lava; vents are generally no longer marked by cinder cones.  Analyzed specimens are olivine basalts, alkali basalts, a few trachy-basalts, and latibasalts.  Rocks are medium to dark gray or black, very hard, and in part vesicular; some have silvery sheen on fresh break, aptly owing to fine diktytaxitic texture; are visibly porphyritic (typically olivine is the only phenocryst), but some flows have phenocrysts or xeno-crysts of other minerals; altered olivine phenocrysts appear as red or brown specks.  Petrography and petrochemistry described.  K-Ar ages range from 3.5 to 4.0 m.y. Age is Pliocene. "
+  },
+  {
+    "code": "To",
+    "name": "Ogallala Formation",
+    "series": "Tertiary",
+    "max_age": "Pliocene",
+    "min_age": "Pliocene",
+    "lithology": "sand, siltstone, clay, gravel and limestone",
+    "description": "CIMARRON- Generally semiconsolidated clay, silt, sand, gravel, and caliche 0 to 400 feet thick.  BEAVER- Interbedded sand, siltstone, clay, gravel lenses, and thin limestone.  Caliche common near surface but occurrence is not limited to the surface.  Caliche accounts for most of the white color in the Ogallala.  Other colors generally light tan or buff but locally may be pastel shades of almost any color.  The Laverne and Rexroad Formations of Pliocene age and the Meade Group and Odee (of local usage) and other formations of Pleistocene age occur locally and are included with the Ogallala Formation, 0-700 feet thick.  WOODWARD- Gravel, sand, silt, clay, caliche, and limestone, locally cemented with calcium carbonate. Generally light-tan to gray to white.  Thickness ranges up to 400 feet and probably averages 150 feet.  CLINTON- Gray to light-brown, fine- to medium-grained sand with some, clay, silt, gravel, volcanic ash, and caliche beds; locally cemented by calcium carbonate.  Thickness ranges from 0 to about 320 feet. The formation thins eastward. "
+  },
+  {
+    "code": "Toa",
+    "name": "Pleistocene and Pliocene deposits, undifferentiated",
+    "series": "Quaternary- Tertiary",
+    "max_age": "Pliocene",
+    "min_age": "Pleistocene",
+    "lithology": "sand, silt, clay, gravel, sandstone, caliche, limestone, conglomerate, and volcanic ash",
+    "description": "TEXAS- Interfingering beds, tongues, and lenses of sand, silt, clay, gravel, sandstone, caliche, limestone, conglomerate, and volcanic ash.  Includes Ogallala and Laverne Formations of Pliocene age and younger deposits of Pleistocene age.  Locally the units are tightly cemented by calcium carbonate; other places, they are very poorly consolidated and nearly free of cementing materials.  Thickness ranges from 0 to about 800 feet."
+  },
+  {
+    "code": "Ko",
+    "name": "Ozan Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "marl, clay, sand, and limestone",
+    "description": "McALESTER TEXARKANA- Marl and clay, light- to dark- to brownish-gray, micaceous, calcareous, sandy, fine-grained sand, with interbedded chalky limestone; glauconitic marl and sand at base; same as lower Taylor Marl of Texas; thickness, about 100 feet.  Comments: marl refers to loosely consolidated calcareous clays, silts and sands containing glauconite. "
+  },
+  {
+    "code": "Kbr",
+    "name": "Brownstown Marl",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "marl, clay, and sand",
+    "description": "McALESTER TEXARKANA- Marl and clay, gray, calcareous, micaceous, sandy and fine-grained sand, with some interbedded chalky limestones; same as upper Austin Chalk of Texas; thickness, about 100 feet.  Comments: marl refers to loosely consolidated calcareous clays, silts and sands containing glauconite"
+  },
+  {
+    "code": "Kef",
+    "name": "Eagle Ford Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "shale",
+    "description": "ARDMORE-SHERMAN- Shale, dark-gray, plastic; thickness, about 50 feet; top eroded.  Comments: medium to dark gray shale, bituminous, selenitic, calcareous concretions and septaria, a few thin platy beds of sandstone and sandy limestone; marine megafossils. "
+  },
+  {
+    "code": "Kto",
+    "name": "Tokio Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "sand",
+    "description": "McALESTER TEXARKANA- Sand, light-gray, fine- to coarse-grained, quartzose, poorly sorted, crossbedded, and gray clay shale, with many cylindrical pipe structures, petrified wood and invertebrates; same as Bonham Marl and Austin Chalk of Texas; thickness ranges from 88 to 380 feet, increasing eastward; reaches thickness of 595 feet in subsurface southeastward. "
+  },
+  {
+    "code": "Kw",
+    "name": "Woodbine Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "sand, clay",
+    "description": "McALESTER TEXARKANA- Sand, dark-green, yellowish-red, white, gray, fine- to coarse-grained, tuffaceous in upper part; crossbedded, quartzose, and brownish-red noncalcareous clay; some gravel lentils with little to no quartz and some lignites and fossil plants; rests unconformably upon successively older Cretaceous units eastward; thickness, 325 to 455 feet, increasing eastward.  Comments: interlensing sequence of nonmarine, brackish, and marine beds, includes marine fossils"
+  },
+  {
+    "code": "Kwt",
+    "name": "Templeton Member of Woodbine Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "sandstone, shale",
+    "description": "ARDMORE-SHERMAN- indurated sandstone and shale, about 75 feet thick, erodes to an escarpment; (Woodbine Formation) "
+  },
+  {
+    "code": "Kwl",
+    "name": "Lewisville Member of Woodbine Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "shale, sandstone",
+    "description": "ARDMORE-SHERMAN- mostly shale and weakly indurated sandstone, about 75 feet thick. "
+  },
+  {
+    "code": "Kwr",
+    "name": "Red Branch Member of Woodbine Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "sandstone, shale",
+    "description": "ARDMORE-SHERMAN- indurated sandstone, shale, and lignite, about 75 feet thick, erodes to an escarpment; and basal Dexter Member. "
+  },
+  {
+    "code": "Kwd",
+    "name": "Dexter Member of Woodbine Formation",
+    "series": "Cretaceous",
+    "max_age": "Late Cretaceous",
+    "min_age": "Late Cretaceous",
+    "lithology": "sandstone, shale",
+    "description": "ARDMORE-SHERMAN- sandstone, shale, and lignite, moderately to weakly indurated, about 100 feet thick. "
+  },
+  {
+    "code": "Kgb",
+    "name": "Grayson Marl and Bennington Limestone",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "marl",
+    "description": "ARDMORE-SHERMAN- \"Grayson Marl,\" marl, olive-gray, weakly indurated; thickness, about 25 feet. \"Bennington Limestone\" at base is moderately indurated, medium bedded; thickness, about 10 feet.  McALESTER TEXARKANA- \"Grayson Marl,\" olive-gray, weakly indurated; with Texigryphaea roemeri;\" thickness, about 25 feet. \"Bennington Limestone\" at base, limestone, gray to gray-brown, sandy, fossiliferous, overlapped eastward by Woodbine; thickness, 6 to 18 feet. Comments: marl refers to loosely consolidated calcareous clays, silts and sands containing glauconite"
+  },
+  {
+    "code": "Kb",
+    "name": "Bokchito Formation",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "clay and shale",
+    "description": "ARDMORE-SHERMAN- Clay, illitic, kaolinitic, with some tan limestones and sandstones. Subdivided into \"Pawpaw Clay\" at top, 40 to 60 feet thick; \"Quarry Limestone,\" 13 feet thick; \"Weno Clay,\" 100 to 135 feet thick; and basal \"Denton Clay,\" 50 to 70 feet thick.  Comments: Lowermost 90 ft is sandy clay shale with some ferruginous limestone segregations and ironstone nodules; above these are 20-30 ft of friable sandstone followed by bluish shell limestones separated by friable shales.  Limestone is hard, semicrystalline, and on weathering turns yellowish brown or reddish. At top of formation are 50 ft of sandy and clay shales and, locally, friable sandstone strata; shows cross- bedding in places.  Total thickness of formation is 140 ft. Ouachita Mountain uplift; S. OK folded belt province. "
+  },
+  {
+    "code": "Kpm",
+    "name": "Pawpaw Sandstone and McNutt Limestone",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "sandstone",
+    "description": "McALESTER TEXARKANA- \"Pawpaw Sandstone,\" sandstone, yellowish- to reddish-gray, fine-grained, with gray to reddish-purple sandy clay; thickness, 35 feet. \"McNutt Limestone\" at base, limestone, grayish-brown, arenaceous, with \"Rastellum quadriplicatum;\" thickness, 2 to 3 feet."
+  },
+  {
+    "code": "Kws",
+    "name": "Weno Clay and Soper Limestone",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "clay and shale, gypsum, sandstone",
+    "description": "McALESTER TEXARKANA- \"Weno Clay\", clay and shale, brownish-gray, with selenite gypsum; interbedded with red- to yellow-brown fine-grained sandstones; thickness, 30 to 53 feet. \"Soper Limestone\" at base, limestone, gray-brown to red-brown, compact, fossiliferous, with \"Rastellum carinatum;\" thickness, 1 to 2 feet."
+  },
+  {
+    "code": "Kdc",
+    "name": "Denton Clay",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "clay and shale, limestone",
+    "description": "McALESTER TEXARKANA- Clay and shale, blue- to brownish-gray, and marly, fossiliferous limestone with \"Texigryphaea washitaensis;\" thickness, 45 to 65 feet."
+  },
+  {
+    "code": "Kcf",
+    "name": "Caddo Formation",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "limestone and shale, marl",
+    "description": "ARDMORE-SHERMAN-Limestones, marls, and shales; 150 feet thick. Subdivided into \"Fort Worth Limestone\" at top and \"Duck Creek Limestone\" below. McALESTER TEXARKANA- Limestones, white to cream, silty, alternating with gray shales, with \"Texigryphaea washitaensis;\" 7-foot bed at top (Fort Worth equivalent) and blue-gray silty shales and limestones below with \"Texigryphaea navia\" (Duck Creek equivalent); thickness, 150 feet. Ouachita Mountain uplift; S. OK folded belt province"
+  },
+  {
+    "code": "Kki",
+    "name": "Kiamichi Formation",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "shale",
+    "description": "ARDMORE-SHERMAN- Shale, dark-gray, plastic, with oyster-shell limestones; thickness, about 30 feet. McALESTER TEXARKANA- Shale, dark-gray to black, with some brown fossiliferous limestones, with \"Texigryphaea navia;\" thickness, 28 to 36 feet, and up to 80 feet in subsurface of southern McCurtain County.Ouachita Mountain uplift; S. OK folded belt province"
+  },
+  {
+    "code": "Kgw",
+    "name": "Goodland Limestone and Walnut Clay",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "limestone",
+    "description": "ARDMORE-SHERMAN- \"Goodland Limestone,\" limestone, gray, dense, nodular to massive; thickness, 20 to 30 feet. At base is \"Walnut Clay,\" tan clay, about 4 feet thick. McALESTER TEXARKANA- Limestone, white, fine crystalline, massive-bedded, with \"Texigryphaea mucronata;\" some argillaceous buff beds in lower few feet may be \"Walnut Clay\" equivalents; erodes into a mappable escarpment; thickness, 26 to 55 feet."
+  },
+  {
+    "code": "Ka",
+    "name": "Antlers Sand or Antlers Sandstone",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "sandstone and sand",
+    "description": "ARDMORE-SHERMAN- \"Antlers Sand\" Sand, white to yellow, medium-grained, weakly indurated, with varicolored clays. Contains arkosic conglomerates near Arbuckle Mountains and \"Baum Limestone\" near Mannsville anticline. Thickness, 200 to 700 feet. McALESTER TEXARKANA- \"Antlers Sandstone\" Sandstone and sand, white to reddish-yellow to orange-brown to gray, fine- to coarse-grained, quartzose, crossbedded, moderately to weakly indurated, interbedded with varicolored clays and conglomerates; contains fossil wood and dinosaurs; rests unconformably upon Ouachita rocks but conformably upon DeQueen Limestone; thickness, 0 to 320 feet, thickening southeastward to 900 feet in subsurface."
+  },
+  {
+    "code": "Kdq",
+    "name": "DeQueen Limestone",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "Limestone and marl, shale, gypsum, anhydrite",
+    "description": "McALESTER TEXARKANA- Limestone and marl, blue- to pinkish- to yellowish-gray, locally siliceous, interbedded with varicolored calcareous shales; basal limestone conglomerate in places where unconformable upon Ouachita rocks but absent where conformable on Holly Creek Formation; contains 80 feet of gypsum and anhydrite in subsurface; thickness, 38 feet, lensing out to 1 foot westward but thickening to 190 feet southeastward in subsurface."
+  },
+  {
+    "code": "Kh",
+    "name": "Holly Creek Formation",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "gravel",
+    "description": "McALESTER TEXARKANA- Gravel, composed mostly of quartz and novaculite, with clay and silt, tan to red-brown; unconformable on Ouachita rocks; thickness, 30 to 100 feet, thickening to 1,070 feet in subsurface of southern McCurtain County"
+  },
+  {
+    "code": "Kc",
+    "name": "Colorado Group",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "limestone, shale",
+    "description": "CIMARRON- includes: Greenhorn Limestone: Gray fossiliferous limestone and calcareous shale. Graneros Shale: Dark-gray shale."
+  },
+  {
+    "code": "Kd",
+    "name": "Dakota Group",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "sandstone, conglomerate",
+    "description": "CLINTON- Outliers of the \"Kiowa Formation,\" Kk, dark-gray shale with some thin beds of fossiliferous tan limestone, range in thickness from a few feet to about 20 feet. Associated in some places is a 5- to 10-foot, gray to brown, coarse-grained sandstone and conglomerate assigned to the overlying \"Dakota Group,\" Kd, (lower sandstone part)."
+  },
+  {
+    "code": "Kds",
+    "name": "Dakota Sandstone",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "sandstone, shale",
+    "description": "CIMARRON- Buff to light-brown, fine- to medium-grained, thin bedded to massive sandstone with interbedded shales."
+  },
+  {
+    "code": "Kk",
+    "name": "Kiowa Formation",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "shale, limestone",
+    "description": "WOODWARD- Gray and yellow shale and limestone, with many \"Texigryphaea\" shells locally. At base is 5 to 10 feet of greenish-gray sandstone in places. Thickness ranges up to 140 feet with top eroded. CLINTON- Outliers of the \"Kiowa Formation,\" Kk, dark-gray shale with some thin beds of fossiliferous tan limestone, range in thickness from a few feet to about 20 feet. Associated in some places is a 5- to 10-foot, gray to brown, coarse-grained sandstone and conglomerate assigned to the overlying \"Dakota Group,\" Kd, (lower sandstone part)."
+  },
+  {
+    "code": "Kp",
+    "name": "Purgatoire Formation",
+    "series": "Cretaceous",
+    "max_age": "Early Cretaceous",
+    "min_age": "Early Cretaceous",
+    "lithology": "sandstone, shale",
+    "description": "CIMARRON- Kiowa Shale Member: Gray to black fossiliferous shale with sandstone in the upper part. Thickness ranges from 0 to 50 +/- feet. Cheyenne Sandstone Member: Massive, white to buff, fine- to medium-grained sandstone, containing some conglomerate in the lower part, from 0 to 120 +/- feet thick."
+  },
+  {
+    "code": "Je",
+    "name": "Exeter (Entrada) Sandstone",
+    "series": "Jurassic",
+    "max_age": "Late Jurassic",
+    "min_age": "Late Jurassic",
+    "lithology": "sandstone",
+    "description": "CIMARRON- Massive, white to buff, fine- to medium-grained sandstone 0 to 50 +/- feet thick."
+  },
+  {
+    "code": "Jm",
+    "name": "Morrison Formation",
+    "series": "Jurassic",
+    "max_age": "Late Jurassic",
+    "min_age": "Late Jurassic",
+    "lithology": "sandstone, limestone, dolomite, shale, and conglomerate",
+    "description": "CIMARRON- Varicolored fine-grained sandstone, limestone, dolomite, shale, and conglomerate 0 to 470 +/- feet thick."
+  },
+  {
+    "code": "TRd",
+    "name": "Dockum Group",
+    "series": "Triassic",
+    "max_age": "Late Triassic",
+    "min_age": "Late Triassic",
+    "lithology": "siltstone, sandstone, conglomerate, limestone",
+    "description": "CIMARRON- Upper shale unit: Varicolored siltstone or claystone, conglomerate, fine-grained sandstone, and limestone. Lower sandstone unit: Varicolored, fine- to coarse-grained sandstone with some clay and interbedded shale."
+  },
+  {
+    "code": "MZu",
+    "name": "Mesozoic rocks undifferentiated",
+    "series": "Cretaceous + Jurassic + Triassic",
+    "max_age": "Early Triassic",
+    "min_age": "Late Cretaceous",
+    "lithology": "shale",
+    "description": "TEXAS- Red shale containing thin layers of yellow and gray clay and indistinctly bedded fine-grained buff, red, white, and gray sandstone. May include beds of Cretaceous, Jurassic, and Triassic ages. Their exposed thickness is less than 100 feet."
+  },
+  {
+    "code": "Pec",
+    "name": "Elk City Sandstone",
+    "series": "Permian",
+    "max_age": "Late Permian",
+    "min_age": "Late Permian",
+    "lithology": "sandstone",
+    "description": "CLINTON- Reddish-brown, fine-grained sandstone with minor amounts of silt and clay, weakly cemented by iron oxide, calcium carbonate, and gypsum; maximum thickness 185 feet, top eroded."
+  },
+  {
+    "code": "Pdy",
+    "name": "Doxey Formation or Doxey Shale",
+    "series": "Permian",
+    "max_age": "Late Permian",
+    "min_age": "Late Permian",
+    "lithology": "shale and siltstone",
+    "description": "WOODWARD- Doxey Formation- Red brown shale and siltstone, with greenish-gray calcareous siltstone at base. Exposed thickness is 30 feet, with top eroded. CLINTON- Doxey Shale- Reddish-brown, silty shale and siltstone; thickness, about 190 feet."
+  },
+  {
+    "code": "Pcc",
+    "name": "Cloud Chief Formation",
+    "series": "Permian",
+    "max_age": "Late Permian",
+    "min_age": "Late Permian",
+    "lithology": "shale, siltstone, sandstone",
+    "description": "WOODWARD- Red-brown and greenish-gray shale and siltstone with some orange-brown fine-grained sandstone and siltstone. At base are two or more thin, pink to maroon to greenish-gray dolomite beds and (or) gypsum beds (\"Moccasin Creek Bed\") eroding into a mappable escarpment. About 25 feet above the base is a white to light-gray dolomite (\"Day Creek Bed\") not mapped. Thickness ranges up to 160 feet, with top eroded in many places. CLINTON- Reddish-brown to orange-brown shale, interbedded with siltstone and sandstone in the middle part and some dolomite and much gypsum in lower part; thickness about 400 feet, thinning northward to about 175 feet. The \"Moccasin Creek Gypsum Member\" is at the base. LAWTON- Represented in this area by the \"Moccasin Creek Gypsum Member,\" which is about 30 feet (9 m) thick. Comments: Named for town of Cloud Chief in eastern Washita Co, OK in Anadarko basin, near which unit is \"typically exposed\" (Gould, 1924) Consists of ledges of massive gypsums imbedded in red shales. The gypsums vary a lot, both in number and thickness. Maximum development of the gypsums is along axis of Anadarko basin in eastern Washita Co, where 100-ft beds occur."
+  },
+  {
+    "code": "Pwh",
+    "name": "Whitehorse Group",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone, siltstone",
+    "description": "CLINTON- Predominantly orange-brown, fine-grained sandstone, the \"Whitehorse Group\" is mapped as Pwh where separate formations have not been distinguished and as the \"Rush Springs Formation\" and the \"Marlow Formation\" where identified. \"Rush Springs Formation,\" Pr, orange-brown, cross-bedded, fine-grained sandstone with some dolomite and gypsum beds. Thickness, about 300 feet, thinning northward to about 186 feet. The \"Weatherford Gypsum Bed,\" Prw, is about 30 to 60 feet below the top (mapped in southeastern part only). \"Marlow Formation,\" Pm, orange-brown, fine-grained sandstone and siltstone, about 100 to 130 feet thick, thinning northward. This formation has 2 gypsum and (or) dolomite beds in upper 20 feet--the \"Emanuel Bed\" (at top) and the \"Relay Creek Bed\" (20 feet below top). Two thin, pale shales occur; the first is 1 foot below the top (\"Gracemont\") and the second is 55 feet above the base (unnamed). The \"Verden Sandstone Lentil,\" Pmv, is a coarse-grained, calcareous, fossiliferous sandstone (2 to 10 feet thick) that occurs in the middle of the Marlow, about 25 feet below the Relay Creek Bed and 85 to 95 feet above the base. LAWTON- Predominantly orange-brown, fine-grained sandstone, the \"Whitehorse Group\" is mapped as Pwh where separate formations have not been distinguished and as the \"Rush Springs Formation\" and the \"Marlow Formation\" where identified. \"Whitehorse Group undifferentiated,\" Pwh, fine-grained sandstone and siltstone as much as 100 feet (30 m) thick in western part of quadrangle, interbedded with gypsum beds 3 to 10 feet (1 to 3 m) thick. Comments: Named for Whitehorse Springs, Woods Co, OK, Anadarko basin. (Gould,1905) Weathers to form conspicuous buttes and mesas. Outcrops over a large area. Occupies a continuous exposure across the axis of the basin. From Fort Cobb and Anadarko (Caddo Co) southeast to head of Anadarko basin, Whitehorse averages 15 mi in width. From these towns northward 50 mi width averages 25 mi. S.Oklahoma folded belt province"
+  },
+  {
+    "code": "Pr",
+    "name": "Rush Springs Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone",
+    "description": "WOODWARD- Orange-brown fine-grained sandstone, commonly crossbedded, with some interbedded red-brown shale, silty shale, and gypsum beds. In southern part of area, about 30 feet below top is a thin massive gypsum bed (\"Weatherford Bed\" or \"One Horse Bed\"), not mapped here. About 100 feet lower is another thin gypsum bed (\"Old Crow Bed\") not mapped here. Thickness is about 190 feet in southern part and 90 feet near Kansas border, with top eroded in many places. CLINTON- \"Rush Springs Formation,\" Pr, orange-brown, cross-bedded, fine-grained sandstone with some dolomite and gypsum beds. Thickness, about 300 feet, thinning northward to about 186 feet. LAWTON- \"Rush Springs Formation,\" Pr, very fine-grained, cross-bedded sandstone, 136 to 300 feet (41 to 90 m) thick. The \"Weatherford Gypsum Bed,\" Prw, contains gypsum and dolomite and is as much as 60 feet (18 m) thick in the upper part of the Rush Springs. (Whitehorse Group). ARDMORE-SHERMAN- Sandstone, orange-brown, fine- to medium-grained, moderately indurated, with \"Weatherford Gypsum Bed,\" Prw, 2 to 15 feet thick, near top. Thickness, about 280 feet, top eroded (Whitehorse Group)."
+  },
+  {
+    "code": "Prw",
+    "name": "Weatherford Gypsum Bed of Rush Springs Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "gypsum, dolomite",
+    "description": "CLINTON- The \"Weatherford Gypsum Bed,\" Prw, dolomite and gypsum beds, is about 30 to 60 feet below the top (mapped in southeastern part only). LAWTON- \"Weatherford Gypsum Bed,\" Prw, contains gypsum and dolomite and is as much as 60 feet (18 m) thick in the upper part of the Rush Springs. (Whitehorse Group). ARDMORE-SHERMAN- \"Weatherford Gypsum Bed,\" Prw, 2 to 15 feet thick, near top of Rush Springs Formation."
+  },
+  {
+    "code": "Pm",
+    "name": "Marlow Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone, siltstone",
+    "description": "WOODWARD- Orange-brown fine-grained sandstone and siltstone, with some interbedded red-brown shale and silty shale in upper part and some thin gypsum beds at base, about 35 feet above base, and at top. The upper two gypsum and (or) dolomite beds are generally pink to maroon and less than 1 foot thick; they may erode into mappable escarpments about 20 feet apart, being named \"Emanuel Bed\" at top (mapped) and \"Relay Creek Bed\" 15 to 20 feet below the top (not mapped). In places the basal Marlow is a greenish-gray medium-grained sandstone. In Woods and Woodward Counties, the \"Doe Creek Lentil\" (Pmd) is a coarse-grained calcareous sandstone with algal clumps and invertebrate fossils, ranging up to 70 feet thick from the base of the Marlow to the Relay Creek Bed, cropping out in a narrow band of high hills striking northeast. Thickness is about 120 feet, with top eroded at many places. CLINTON- \"Marlow Formation,\" Pm, orange-brown, fine-grained sandstone and siltstone, about 100 to 130 feet thick, thinning northward. This formation has 2 gypsum and (or) dolomite beds in upper 20 feet--the \"Emanuel Bed\" (at top) and the \"Relay Creek Bed\" (20 feet below top). Two thin, pale shales occur; the first is 1 foot below the top (\"Gracemont\") and the second is 55 feet above the base (unnamed). OKLAHOMA CITY- Mostly orange-brown fine-grained gypsiferous sandstone, with some red-brown shale. Contains 10 feet of calcitic sandstone lenses near middle and 2 thin dolomites (or gypsums) at top. Exposed thickness, about 50 feet (top 50 to 75 feet eroded). (Whitehorse Group). LAWTON- \"Marlow Formation,\" Pm, very fine-grained sandstone with some silty shale; thickness, about 90 to 130 feet (27 to 40 m); contains 2 thin gypsum and (or) dolomite beds in upper 20 feet (6 m)-the \"Emanuel Bed\" (at top) and the \"Relay Creek Bed\" (20 feet below top). (Whitehorse Group). ARDMORE-SHERMAN- Sandstone, orange-brown, fine- to medium-grained, moderately indurated, with \"Verden Sandstone Lentil,\" Pmv, 10 feet thick near middle, and \"Relay Creek\" and \"Emanuel\" dolomite and gypsum beds at top; thickness, 105 to 135 feet. (Whitehorse Group)."
+  },
+  {
+    "code": "Pmd",
+    "name": "Doe Creek Lentil of Marlow Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone",
+    "description": "WOODWARD- In Woods and Woodward Counties, the \"Doe Creek Lentil\" (Pmd) is a coarse-grained calcareous sandstone with algal clumps and invertebrate fossils, ranging up to 70 feet thick from the base of the Marlow to the Relay Creek Bed, cropping out in a narrow band of high hills striking northeast."
+  },
+  {
+    "code": "Pmv",
+    "name": "Verden Sandstone Lentil of Marlow Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone",
+    "description": "CLINTON- The \"Verden Sandstone Lentil,\" Pmv, is a coarse-grained, calcareous, fossiliferous sandstone (2 to 10 feet thick) that occurs in the middle of the Marlow, about 25 feet below the Relay Creek Bed and 85 to 95 feet above the base. ARDMORE-SHERMAN- \"Verden Sandstone Lentil,\" Pmv, sandstone, 10 feet thick near middle of Marlow Formation."
+  },
+  {
+    "code": "Per",
+    "name": "El Reno Group",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale, gypsum, dolomite",
+    "description": "CLINTON- Primarily evaporites and reddish-brown shale, with deltaic clastics to the southeast. Where separate formations have not been distinguished, the \"El Reno Group\" is mapped as Per; El Reno Group. Includes: \"Dog Creek Shale,\" Pdc, reddish-brown shale with thin beds of siltstone and dolomite; thickness, about 220 feet; gradational eastward into the Chickasha Formation. \"Blaine Formation,\" Pb, 3 to 4 gypsum and dolomite beds, about 100 to 200 feet thick, separated by reddish-brown shale. Gradational southward and eastward into Chickasha Formation. \"Flowerpot Shale,\" Pf, reddish-brown shale containing several salt and gypsum beds in the upper part. Thickness, about 300 to 450 feet; gradational southward and eastward into Chickasha Formation and Duncan Sandstone. \"Cedar Hill Sandstone,\" Pch, greenish-gray sandstone and reddish-brown shales; thickness, about 180 feet; gradational southward into Duncan Sandstone. \"Chickasha Formation,\" Pc, reddish-brown to maroon mudstone conglomerate with some shale, siltstone, and fine- to coarse-grained sandstone; thickness, about 600 feet; gradational northward and westward into the Flowerpot Shale and the Blaine Formation and westward into Dog Creek Shale. \"Duncan Sandstone,\" Pd, light-gray and reddish-brown, cross-bedded, fine-grained sandstone and mudstone conglomerate with some interbedded yellowish-gray and reddish-brown shales; thickness, about 200 feet; gradational into the Cedar Hills Sandstone northward and into the Flowerpot Shale northward and westward. LAWTON- Primarily evaporites and reddish-brown shale, with deltaic clastics to the east. In the eastern part of the quadrangle, separate formations have not been distinguished, and the \"El Reno Group\" is mapped as Per; in the western part of the quadrangle, the group has been mapped as four separate formations. \"El Reno Group undifferentiated,\" Per, in northeastern part of the quadrangle, includes \"Chickasha Formation\" sandstone, shale, and siltstone, 400 to 580 feet (120 to 180 m) thick-and underlying \"Duncan Sandstone\" (equivalent to San Angelo Sandstone)-sandstone with some shale, 100 to 250 feet (30 to 76 m) thick."
+  },
+  {
+    "code": "Pdc",
+    "name": "Dog Creek Shale",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale",
+    "description": "WOODWARD- Red-brown shale and silty shale, with gypsum, dolomite, and range-brown sandstone. In upper part are many thin, dense light-gray dolomite beds, the basal one of which is named \"Southard Bed\" (unmapped); in lower part is much satin-spar gypsum with a greenish-gray dolomite at top termed \"Watonga Bed\" (unmapped). Thickness ranges from 30 feet or less at Kansas border to 100 feet in southern part of area. CLINTON- \"Dog Creek Shale,\" Pdc, reddish-brown shale with thin beds of siltstone and dolomite; thickness, about 220 feet; gradational eastward into the Chickasha Formation. OKLAHOMA CITY- Mostly red-brown silty shale and some fine-grained sandstone. Contains one or two layers of thin dolomite (or gypsum) in lower part; basal part grades southward into \"Chickasha Formation\". Thickness averages about 200 feet. (El Reno Group). LAWTON- \"Dog Creek Shale,\" Pdc, reddish-brown silty shale, 85 to 190 feet (26 to 58 m) thick. (El Reno Group). ARDMORE-SHERMAN- Shale, red-brown, blocky, silty, weakly indurated, gradational southward into \"Chickasha Formation;\" thickness, 0 to about 130 feet. (El Reno Group)."
+  },
+  {
+    "code": "Pb",
+    "name": "Blaine Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "gypsum, dolomite, shale",
+    "description": "WOODWARD- Alternating cyclic sequence of 3 or 4 massive gypsum beds with red-brown shales, generally with a named dolomite at the base of each gypsum, and a greenish-gray shale at the base of each dolomite. The named unmapped sequence is (ascending) \"Cedar Springs Dolomite, Medicine Lodge Gypsum,\" shale, \"Magpie Dolomite, Nescatunga Gypsum,\" shale, \"Altona Dolomite, Shimer Gypsum,\" shale, and\"Haskew Gypsum\" at top. Thickness ranges up to 90 feet, with the shales being thinner northward. CLINTON- \"Blaine Formation,\" Pb, 3 to 4 gypsum and dolomite beds, about 100 to 200 feet thick, separated by reddish-brown shale. Gradational southward and eastward into Chickasha Formation. OKLAHOMA CITY- Mostly thin gypsums with thin dolomites below each gypsum, interbedded with red-brown shale; grades southward into \"Chickasha Formation\". Thickness, 50 to 75 feet. (El Reno Group). LAWTON- \"Blaine Formation,\" Pb, interbedded gypsum, dolomite, and shale, 190 to 215 feet (58 to 66 m) thick. \"Van Vacter Member,\" Pbv, of the Blaine Formation contains 6 dolomite-gypsum-shale sequences with a total thickness of 80 to 105 feet (24 to 32 m); \"Elm Fork Member,\" Pbe, contains 3 dolomite-gypsum sequences with a total thickness of 80 to 110 feet (24 to 34 m)."
+  },
+  {
+    "code": "Pbv",
+    "name": "Van Vacter Member of Blaine Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "gypsum, dolomite, shale",
+    "description": "LAWTON- \"Van Vacter Member,\" Pbv, of the Blaine Formation contains 6 dolomite-gypsum-shale sequences with a total thickness of 80 to 105 feet (24 to 32 m)."
+  },
+  {
+    "code": "Pbe",
+    "name": "Elm Fork Member of Blaine Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "gypsum, dolomite",
+    "description": "LAWTON- \"Elm Fork Member,\" Pbe, of the Blaine Formation contains 3 dolomite-gypsum sequences with a total thickness of 80 to 110 feet (24 to 34 m)."
+  },
+  {
+    "code": "Pch",
+    "name": "Cedar Hill Sandstone",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone, shale",
+    "description": "WOODWARD- Orange-brown to greenish-gray fine-grained sandstone and siltstone, with some red-brown shale. Thickness ranges up to 180 feet, with more sandstone to the north and more shale to the south. ENID- Mainly orange-brown, fine-grained quartzose sandstone. Thickness about 180 feet (55 m). (El Reno Group). CLINTON- \"Cedar Hill Sandstone,\" Pch, greenish-gray sandstone and reddish-brown shales; thickness, about 180 feet; gradational southward into Duncan Sandstone. OKLAHOMA CITY- Lenticular beds of orange-brown fine-grained sandstone and red-brown shale; lower part grades southward into \"Duncan Sandstone\". \"Piedmont Sandstone Bed\" at base. Thickness, 180 feet (only lower 80 feet exposed in mapped area). (El Reno Group)."
+  },
+  {
+    "code": "Pf",
+    "name": "Flowerpot Shale",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale, siltstone",
+    "description": "WOODWARD- Red-brown silty shale with some thin gypsum and dolomite beds in upper 50 feet and fine-grained sandstones in upper part to north. The middle and upper parts contain 50 feet or more of rock salt in the immediate subsurface, giving origin to the Ferguson Salt Plain in Blaine County and the Big and Little Salt Plains in Woods and Harper Counties on the Cimarron River. Thickness ranges from 180 feet in north part to 430 feet in south part. The \"Chickasha Formation\" (Pc) is a deltaic tongue of red-brown to greenish-gray to orange-brown cross-bedded mudstone conglomerate, siltstone, shale, and fine-grained sandstone, about 30 feet thick, in the middle of the Flowerpot Shale, pinching out northward. CLINTON- \"Flowerpot Shale,\" Pf, reddish-brown shale containing several salt and gypsum beds in the upper part. Thickness, about 300 to 450 feet; gradational southward and eastward into Chickasha Formation and Duncan Sandstone. OKLAHOMA CITY- Mostly red-brown silty clay shale with stringers of gypsum (satin spar and selenite); grades southward into \"Chickasha Formation\". Thickness, 20 to 40 feet. (El Reno Group). LAWTON- \"Flowerpot Shale,\" Pf, reddish-brown and greenish-gray shale, interbedded with greenish-gray siltstone; thickness, about 175 to 195 feet (53 to 59 m)."
+  },
+  {
+    "code": "Pc",
+    "name": "Chickasha Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "mudstone conglomerate, shale, siltstone",
+    "description": "WOODWARD- The \"Chickasha Formation\" member of Flower Pot Shale (Pc) is a deltaic tongue of red-brown to greenish-gray to orange-brown cross-bedded mudstone conglomerate, siltstone, shale, and fine-grained sandstone, about 30 feet thick, in the middle of the Flowerpot Shale, pinching out northward. CLINTON- \"Chickasha Formation,\" Pc, reddish-brown to maroon mudstone conglomerate with some shale, siltstone, and fine- to coarse-grained sandstone; thickness, about 600 feet; gradational northward and westward into the Flowerpot Shale and the Blaine Formation and westward into Dog Creek Shale. OKLAHOMA CITY-Variegated mudstone conglomerate and red-brown to orange- brown silty shale and siltstone, with minor amounts of orange-brown fine-grained sandstone; upper part grades northward into \"Dog Creek Shale\", \"Blaine Formation\", \"Flowerpot Shale\", and upper part of \"Cedar Hills Sandstone\"; lower part grades into \"Duncan Sandstone\". Thickness, about 100 feet near Chickasha and 300 feet near Okarche. (El Reno Group). ARDMORE-SHERMAN- Mudstone conglomerate, siltstone, and sandstone, red-brown; thickness, 100 to 200 feet, decreasing southeastward. (El Reno Group)."
+  },
+  {
+    "code": "Pd",
+    "name": "Duncan Sandstone",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone, mudstone conglomerate",
+    "description": "CLINTON- \"Duncan Sandstone,\" Pd, light-gray and reddish-brown, cross-bedded, fine-grained sandstone and mudstone conglomerate with some interbedded yellowish-gray and reddish-brown shales; thickness, about 200 feet; gradational into the Cedar Hills Sandstone northward and into the Flowerpot Shale northward and westward. OKLAHOMA CITY- Mainly red-brown to orange-brown fine-grained sandstone, with some mudstone conglomerate and shale; grades northward into \"Cedar Hills Sandstone\" and \"Chickasha Formation\". Thickness, 450 feet near Chickasha, 300 feet near Oklahoma City, and 100 feet or more near Okarche. (El Reno Group). ARDMORE-SHERMAN- Sandstone, white to buff, fine- to coarse-grained, moderately indurated, with interbedded mudstone conglomerates and siltstones; thickness, 100 to 400 feet, decreasing southeastward. (El Reno Group)."
+  },
+  {
+    "code": "Psa",
+    "name": "San Angelo Sandstone",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone, mudstone conglomerate, shale",
+    "description": "LAWTON- \"San Angelo Sandstone,\" Psa, interstratified sandstone, mudstone conglomerate, and shale, as much as 80 feet (24 m) thick."
+  },
+  {
+    "code": "Phy",
+    "name": "Hennessey Group",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale",
+    "description": "CLINTON- Reddish-brown shale with some thin, greenish-gray siltstone and orange-brown sandstone and siltstone beds; thickness, about 500 feet. The \"Hennessey Group\" is not subdivided in the southern part of the Clinton quadrangle; in the northeastern corner of the quadrangle, the upper part of the \"Bison Formation,\" Pbi, is exposed as orange-brown and greenish-gray, fine-grained sandstone and siltstone. The Bison is gradational southward into reddish-brown shale; it thins southward and is about 120 feet thick. LAWTON- \"Hennessey Group,\" Phy, reddish-brown to gray shale with some tan sandstones, 130 to 200 feet (40 to 60 m) thick (locally unconformable on Cambrian igneous rocks). Comments: Named from town of Hennessey, northern Kingfisher Co, OK, (Aurin and others, 1926). in the Anadarko basin. The shales of the Hennessey are rarely fissile or laminated; instead they are more commonly blocky and break with a conchoidal fracture with the appearance of \"joint clay.\" Characterized by numerous bands or streaks which are white or light green in color varying in thickness from a few inches to 4+ ft. (S. Oklahoma folded belt province)."
+  },
+  {
+    "code": "Pbi",
+    "name": "Bison Formation or Bison Shale",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale, sandstone, siltstone",
+    "description": "WOODWARD- Bison Formation- Mostly orange-brown to greenish-gray fine-grained sandstone. Thickness ranges up to 120 feet. ENID- \"Bison Formation\"-Mainly red-brown shale and greenish-gray and orange-brown calcitic siltstone with minor sandstone in Garfield County. Thickness, about 120 feet (35 m). (Hennessey Group). CLINTON- \"Bison Formation,\" Pbi, is exposed as orange-brown and greenish-gray, fine-grained sandstone and siltstone. The Bison is gradational southward into reddish-brown shale; it thins southward and is about 120 feet thick. OKLAHOMA CITY- \"Bison Formation\"-Mostly red-brown shale; grades northward into many thin greenish-gray calcitic siltstones and some orange-brown fine-grained sandstones and siltstones. \"Reeding Sandstone Bed\" at base. Thickness ranges from 95 feet in south to 120 feet in north. (Hennessey Group). ARDMORE-SHERMAN- \"Bison Shale\"-Shale, gray to red-brown, calcareous, blocky; thickness, 50 to 90 feet, decreasing southward. (Hennessey Group)."
+  },
+  {
+    "code": "Ppo",
+    "name": "Post Oak Conglomerate",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "mixed clastic conglomerate",
+    "description": "LAWTON- \"Post Oak Conglomerate,\" Ppo, limestone conglomerate near limestone outcrops; contains zeolite-opal (\"Tepee Creek Formation\") locally, near gabbro and anorthosite outcrops; arkosic gravel and cobbles near igneous outcrops. These rock types are interbedded with sand, silt, clay, and shale, as much as 500 feet (150 m) thick at surface but several thousand feet thick in subsurface, extending down section into Pennsylvanian rocks. Comments: Named from Post Oak Creek, and from Post Oak Mission in the NE corner of Comanche Co, OK, S. Oklahoma folded belt province, where unit is thick and well developed. Present also in southeastern Kiowa and southwestern Caddo Cos, OK. Consists of conglomerate and arkose beds--four distinct litho-facies: 1) granite boulder conglomerate, 2) rhyolite porphyry conglomerate, 3) limestone boulder conglomerate, and 4) conglomerate with zeolite-opal cement. Post Oak is a near-shore facies of lower part of Wichita formation."
+  },
+  {
+    "code": "Psp",
+    "name": "Salt Plains Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale, siltstone, sandstone",
+    "description": "WOODWARD- Orange-brown fine-grained sandstone and siltstone, with a greenish-gray sandstone in middle 30 feet (\"Crisfield Sandstone Member\") unmapped. Thickness ranges up to 160 feet. ENID- Mainly red-brown shale with several thin beds of orange- brown, fine-grained sandstone. Thickness about 160 feet (50 m). (Hennessey Group). OKLAHOMA CITY- Red-brown blocky shale orange-brown siltstone, grades southward into Pp \"Purcell Sandstone\" in Norman area. Thickness, 200 feet. (Hennessey Group). Comments: Anadarko basin in Woods Co, OK. Consists of a zone of rock-salt, red shales, with some sandstone, in which \"saline impregnations are common.\" Is 155 ft thick."
+  },
+  {
+    "code": "Pp",
+    "name": "Purcell Sandstone",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone",
+    "description": "OKLAHOMA CITY- Red-brown to maroon fine- to coarse-grained sandstone, mudstone conglomerate, and red- brown shale. Thickness, 150 feet. (Hennessey Group). ARDMORE-SHERMAN- Sandstone, red-brown to maroon and greenish-gray, fine- to coarse-grained, with some shale and mudstone conglomerate; thickness, 90 to 150 feet, decreasing southward. (Hennessey Group)."
+  },
+  {
+    "code": "Pk",
+    "name": "Kingman Formation or Kingman Siltstone",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "siltstone, sandstone",
+    "description": "WOODWARD- \"Kingman Formation\"- Orange-brown to greenish-gray fine-grained sandstone and siltstone, with some red-brown shale. Thickness is about 70 feet. ENID- \"Kingman Siltstone\"- Mainly red-brown with several thin layers of greenish-gray and orange-brown calcitic siltstone. Thickness, about 70 feet (20 m). (Hennessey Group). OKLAHOMA CITY- \"Kingman Siltstone\"- Orange-brown to greenish- gray, even bedded siltstones with some fine-grain sandstone and red-brown shale; grades southward into \"Purcell Sandstone\". Thickness, 30 feet. (Hennessey Group)."
+  },
+  {
+    "code": "Pfa",
+    "name": "Fairmont Shale",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale",
+    "description": "WOODWARD- Red-brown blocky shale with some greenish-gray calciti siltstones. Thickness ranges up to 160 feet. ENID- Mainly red-brown shale with many thin layers of calcitic siltstone in upper 60 feet (18 m). Thickness, about 150 feet (45 m). (Hennessey Group). OKLAHOMA CITY- Red-brown blocky shale; grades into \"Garber Sandstone\" at base. Thickness, 30 feet at Oklahoma City, 110 feet near Purcell, and 120 feet near Kingfisher. (Hennessey Group). ARDMORE-SHERMAN- Shale, red-brown, blocky; thickness, 40 to 80 feet, decreasing southward. (Hennessey Group)."
+  },
+  {
+    "code": "Pg",
+    "name": "Garber Sandstone",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "sandstone, conglomerate",
+    "description": "ENID- Mostly orange-brown, fine- to medium-grained quartzose sandstone and conglomerate, grading northward into shale and calcitic siltstone. Thickness, about 600 feet (180 m). (Sumner Group). OKLAHOMA CITY- Mostly orange-brown to red-brown fine-grained sandstone, irregularly bedded with red-brown shale and some chert and mudstone conglomerate. Thickness ranges from 150 feet in south to 400 feet or more in north. (Sumner Group). LAWTON- \"Garber Sandstone,\" Pg, reddish-brown, fine-grained sandstone and mudstone conglomerate, 160 to 210 feet (49 to 64 m) thick, containing a basal sandstone, the \"Asphaltum Sandstone Bed,\" about 10 to 60 feet (3 to 18 m) thick.(Sumner Group). ARDMORE-SHERMAN- Sandstone, red-brown, fine- to coarse-grained; thickness, about 110 to 150 feet, including Fairmont Shale west of Elmore City, Garvin County."
+  },
+  {
+    "code": "Pw",
+    "name": "Wellington Formation",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Early Permian",
+    "lithology": "shale, sandstone, conglomerate",
+    "description": "ENID- Mostly red-brown shale to north, grading into fine-grained sandstone and mudstone conglomerate southward into Logan County. Thickness, about 850 feet (260 m). (Sumner Group). OKLAHOMA CITY- Red-brown shale and orange-brown fine-grained sandstone, containing much maroon mudstone conglomerate and chert conglomerate to south. Thickness ranges from about 150 feet in south to 500 feet in north. (Sumner Group). LAWTON- Maroon shale, about 130 feet (40 m) thick, with greenish-gray and black sandstone of the \"Ryan Sandstone Bed\" at base. (Sumner Group). ARDMORE-SHERMAN- Shale, red-brown, with several 20- to 30-foot bituminous sandstones at base (\"Ryan\"); thickness, about 100 to 200 feet, decreasing southeastward. Comments: Occurs in north-central OK on the Chautauqua platform and in the Anadarko basin, and in adjoining KS. Consists of gray to bluish and drab shales with numerous thin beds of gray \"mud-stone.\" Beds of red sandstone present at the \"color-change line\" changing the color of the shales from gray and drab to red. In KS lies on Pearl shale member of the Marion formation, but in OK the Pearl shale member cannot be readily differentiated from the Wellington and thus is mapped with the Wellington. In northern OK, thickness of the Wellington is approximately 600 ft and thickness of the Pearl is 70 ft."
+  },
+  {
+    "code": "Pu",
+    "name": "Permian rocks undifferentiated",
+    "series": "Permian",
+    "max_age": "Early Permian",
+    "min_age": "Late Permian",
+    "lithology": "shale, sandstone, siltstone",
+    "description": "TEXAS- Red to dark reddish-brown shale, sandstone, and siltstone. Gypsum occurs in all rock units as a cementing agent, as tiny flakes, as thin irregular veinlets, and as discontinuous beds ranging from less than an inch to more than 30 feet thick. Maximum thickness exceeds 2,000 feet. BEAVER- Red shale, sandstone, and siltstone, are predominant rocks with lesser amounts of limestone, dolomite, gypsum, and salt. The undifferentiated Permian rocks include the Whitehorse Group, the Cloud Chief Formation, and the Quartermaster Formation; also included are local outcrops in the southwestern part of the county, which maybe Triassic in age, 3,800 feet thick."
+  },
+  {
+    "code": "IPo",
+    "name": "Oscar Group",
+    "series": "Pennsylvanian",
+    "max_age": "Late Pennsylvanian",
+    "min_age": "Late Pennsylvanian",
+    "lithology": "shale, sandstone, limestone",
+    "description": "ENID- Mainly shale with many layers of limestones that pinch out southward, where fine-grained arkosic sandstones are thicker and more numerous. Near Kansas border, sequence is (descending): \"Herington Limestone\" (20 feet thick) at top, \"Enterprise Shale\" (45 feet thick), \"Winfield Limestone, \"IPowi (8 feet thick), \"Gage Shale\" (80 feet thick), \"Towanda Limestone\" (3 feet thick), \"Holmesville Shale\" (25 feet thick), \"Fort Riley Limestone,\" IPofr (30 feet thick) and underlying Florence Flint, IPofr (8 feet thick), \"Blue SpringsShale\" (60 feet thick), \"Kinney Limestone\" (5 feet thick), \"Wymore Shale\" (22 feet thick), \"Wreford Limestone,\" IPowr (25 feet thick), \"Speiser Shale\" (38 feet thick), \"Funston Limestone (4 feet thick), \"Blue Rapids Shale\" (15 feet thick),\"Crouse Limestone\" (6 feet thick), \"Easly Creek Shale\" (12 feet thick), \"Bader Limestone\" (5 feet thick), \"Stearns Shale\" (10 feet thick), \"Morrill Limestone\" (2 feet thick), \"Florena Shale\" (6 feet thick), \"Cottonwood Limestone,\" IPoc (3 feet thick), \"Eskridge Shale\" (6 feet thick), and \"Neva Limestone\" (25 feet thick) at base. Total thickness, about 400 feet. OKLAHOMA CITY- Red-brown to gray shale and orange-brown fine-grained, crossbedded sandstone; grades southward into arkosic sandstone and conglomerate. Includes \"Herington Limestone\" at top in Payne County, \"Neva Limestone\" (0.2 to 1.2 feet thick) at base in Lincoln County, and \"Hart Limestone\" (4 to 10 feet thick)at base in Pottawatomie County. In Payne County, includes thin stringers of \"Winfield Limestone,\" IPowi (75 feet below top), \"Fort Riley Limestone,\" IPofr (245 feet below top),\"Wreford Limestone,\" IPowr (345 feet below top), and \"Cottonwood Limestone,\" IPoc (525 feet below top). Thickness ranges from 300 feet in south to 600 feet in north. LAWTON- Shale, sandstone, and arkose, 300 to 500 feet (90 to 150 m) thick, base covered. ARDMORE-SHERMAN- Shale, red-brown to gray, with arkosic sandstones and limestone conglomerates near Arbuckle Mountains; \"Hart Limestone\" at base; thickness, 300 to 500 feet, decreasing southeastward. (Pontotoc Group)"
+  },
+  {
+    "code": "IPv",
+    "name": "Vanoss Group",
+    "series": "Pennsylvanian",
+    "max_age": "Late Pennsylvanian",
+    "min_age": "Late Pennsylvanian",
+    "lithology": "limestone, shale, sandstone",
+    "description": "ENID- Alternating layers of limestone and shale to north, grading southward into limestone, shale, and fine-grained arkosic sandstone. Locally group contains thin coal seams. Near Kansas border, group includes (descending): \"Salem Point Shale\" (12 feet thick) at top, underlain by \"Burr Limestone\" (8 feet thick), \"Legion Shale\" (4 feet thick), \"Sallyards Limestone\" (3 feet thick), \"Roca Shale\" (15 feet thick), \"Red Eagle Limestone,\" IPvre (20 feet thick), \"Johnson Shale\" (35 feet thick), \"Long Creek Limestone,\" IPvlc (10 feet thick), unnamed shale (3 feet thick), \"Hughes Creek Limestone (15 feet thick), unnamed shale (12 feet thick), \"Americus Limestone, \"IPvam, (12 feet thick), \"Oaks Shale\" (3 feet thick), \"Houchen Creek Limestone (8 feet thick), \"Stine Shale\" (20 feet thick), \"Five Point Limestone\" (3 feet thick), unnamed shale (12 feet thick), \"Brownville Limestone, IPvb (8 feet thick), \"Pony Creek Shale\" (40 feet thick), \"Grayhorse Limestone,\" IPvg (5 feet thick), unnamed shale (12 feet thick), \"Nebraska CityLimestone\" (5 feet thick), \"French Creek Shale\" (12 feet thick), \"Jim Creek Limestone\" (3 feet thick), \"Friedrich Shale\" (30 feet thick), \"Grandhaven Limestone\" (2 feet thick), \"Dry Shale\" (25 feet thick), \"Dover Limestone\" (30 feet thick), \"Willard-Langdon Shale\" (110 feet thick), \"Elmont Limestone,\" IPve (10 feet thick), \"Stonebreaker Shale\" (20 feet thick), and \"Reading Limestone\" (20 feet thick) at base. Total thickness, about 500 feet (150 m). OKLAHOMA CITY- Red-brown to gray shale and orange-brown fine-grained, crossbedded sandstone; grades southward into arkosic sandstone and conglomerate. Includes many thin limestone beds and shale units north of North Canadian River (descending): \"Roca Shale\"(75 feet thick), \"Red Eagle Limestone,\" IPvre (3 to 8 feet thick), \"Johnson Shale\" (60 feet thick), \"Long Creek Limestone,\" IPvlc (9 to 12 feet thick), \"Hughes Creek Shale\" (52 feet thick), \"Americus Limestone,\" IPva (1.0 to 2.5 feet thick), \"Admire Shale\" (70 feet thick), \"Brownville Limestone,\" IPvb (1 to 3 feet thick), \"Pony Creek Shale\" (75 feet thick), \"Grayhorse Limestone,\" IPvg (1 foot thick), unnamed shale (70 feet thick), \"Elmont Limestone,\" IPve (1.2to 7.8 feet thick), \"Stonebreaker Shale\" (60 feet thick), and \"Reading Limestone\" (1.5 feet thick), at base. Total thickness of group ranges from 250 feet in south to 490 feet in north. ARDMORE-SHERMAN- Shale, maroon, arkose, and limestone conglomerate; thickness, 250 to 900 feet (subsurface), decreasing southward. (Pontotoc Group). Comments: Named for town of Vanoss, situated on the outcrop in north-central part of T3N, R4E, Pontotoc Co, OK, Arkoma basin, as basal of 3 formations of Pontotoc terrane [Group], (Morgan,1924). Consists of alternating sandstones, conglomerates, shales, and a few thin limestones. All strata are arkosic, some of the sandstones so much so that they might be taken for true granites. Arkosic material decreases upward, as sandstones become less prominent. Near center of formation there are several thin limestone beds (not observed north of Canadian River) that are generally argillaceous, grading into shale; they are light gray and relatively soft when fresh, but upon weathering become hard and white. Shales, predominant in upper portion, are light in color, ranging through shades of green and gray, with occasional red shale. Thickness increases southward. Exposed portion east of Konawa is only about 250 ft, while near southwest corner of quad is about 650 ft thick."
+  },
+  {
+    "code": "IPa",
+    "name": "Ada Group or Ada Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Late Pennsylvanian",
+    "min_age": "Late Pennsylvanian",
+    "lithology": "shale, sandstone, limestone",
+    "description": "ENID- Ada Group- Mainly shale with many limestone layers that are thinner and pinch out southward, where fine-grained sandstones are thicker and more numerous. Near Kansas border, group includes (descending): \"Auburn shale\" (50 feet thick) at top, underlain by \"Wakarusa Limestone,\" IPaw (2 feet thick), unnamed shale (40 feet thick), \"Rulo Limestone\" (3 feet thick), unnamed shale (18 feet thick), \"Happy Hollow Limestone\" (2 feet thick), unnamed shale and sandstone (60 feet thick), \"Bird Creek Limestone,\" IPab (2 feet thick; called \"Church Limestone\" in Kansas), \"Severy-Aarde Shale\" (70 feet thick), \"Turkey Run Limestone,\" IPat (2 feet thick; called \"Coal Creek Limestone\" in Kansas), unnamed shale (30 feet thick), \"Pearsonia Limestone\" (3 feet thick), unnamed shale (15 feet thick), \"Little Hominy Limestone\" (22 feet thick), \"Deer Creek Limestone (15 feet thick), unnamed shale (10 feet thick), \"Plummer Limestone\" (2 feet thick), unnamed shale (35 feet thick), and \"Beil Limestone Member\" (10 feet thick) of \"Lecompton Limestone\" at base. Total thickness, about 400 feet (120 m). OKLAHOMA CITY- Ada Group- Mostly orange-brown fine-grained sandstone and red-brown to gray shale; grades southward into chert conglomerates. Includes the following thin limestone beds and shale units north of North Canadian River (descending): \"Auburn Shale\" (80 feet thick), \"Wakarusa Limestone,\" IPaw (1 to 6 feet thick), unnamed shale (95 feet thick), \"Bird Creek Limestone,\" IPab (1 to 9 feet thick), \"Severy-Aarde Shale\" (45 feet thick), \"Turkey Run Limestone,\" IPat (1 foot thick), unnamed shale (45 feet thick), and \"Lecompton Limestone\" (1.5 to 10 feet thick), at base. Total thickness of group ranges from 100 feet in south to 280 feet in north. ARDMORE-SHERMAN- \"Ada Formation\"- (= Collings Ranch Conglomerate) Shale, red-brown to gray, bituminous sandstone, and limestone conglomerate; thickness, 100 to 1,400 feet (subsurface), decreasing southward. Comments: Named for town of Ada, Pontotoc Co, OK. Type area lieswithin and to west of Ada; outcrop extends from northern edge of Stonewall quad, north of Vamoosa, southwestward to a point about 3 mi southeast of Roff. Is in Pontotoc and Seminole Cos, OK, Chautauqua platform and Arkoma basin.(Morgan,1924) Average thickness 100 ft. Limestone conglomerates and coarse sandstones very prominent in greater part of outcrop. Clastic material decreases to north; near Vamoosa very scarce.With decrease in amount of clastics northward, formation becomes thinner--only 60 ft thick at northern edge of quad. Also contains light-colored shales. Conglomerates and sandstones are characteristically saturated with asphalt; north of Canadian River, asphaltic strata less numerous than to south. Source of asphalt unclear; possibly heavy oil from exposed asphaltic sands of Simpson formation was brought out and deposited. Fossils rare. Near base is a thin black limestone that is very persistent near Ada."
+  },
+  {
+    "code": "IPva",
+    "name": "Vamoosa Group or Vamoosa Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Late Pennsylvanian",
+    "min_age": "Late Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "OKLAHOMA CITY- Alternating thin to massive layers of fine- to coarse-grained sandstone and sandy, silty shale containing some chert conglomerate in middle and lower parts of formation. Thickness ranges about 200 to about 690 feet. ARDMORE-SHERMAN- Shale, sandstone, and chert conglomerate; red-brown to buff fine- to coarse-grained sandstone. Subdivided into 12 members, each with coarse clastics at base overlain by shale. Thickness, about 125 to 260 feet (to 1,000 feet in subsurface), decreasing southward. Comments: Named after village of Vamoosa, northern part of Stonewall quad, Seminole Co, OK, which is 1/2 mi west of outcrop. In Stonewall quad, is exposed over approximately 20 sq mi. From northern edge of quad (Seminole Co, Chautaqua platform) outcrop trends in a south-westerly direction to an area 1/2 mi east of Byng. South of Byng (Pontotoc Co, Arkoma basin) is exposed on what is believed to be an outlier. Where all of formation is exposed, average thickness is 260 ft. Consist of (ascending): 30 ft. of dark shale, main mass of formation, which includes 260 ft of chert conglomerates, and massive, coarse, red and brown sandstones, and red shales. Clastic material finer near top and red coloration less pronounced near top. Vamoosa contains greater thickness of chert conglomerate than any other formation in the area. Chert fragments which make up the conglomerates are mostly angular; range in size from a fraction of an inch to 3 inches."
+  },
+  {
+    "code": "IPho",
+    "name": "Hoxbar Group",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "limestone, sandstone, shale",
+    "description": "ARDMORE-SHERMAN- Upper most member of Glenn Fm, consisting of brown limestone, white sandstone, and shale. \"Zuckerman Sandstone\" (top eroded) down to base of \"Confederate Limestone;\" thickness, 2,800 feet. Occurs in the ARDMORE BASIN. Comments: Probably named for town of Hoxbar, Carter Co, OK, in the Ardmore Basin, S. Oklahoma folded belt province. Type area given in secs 26 and 35, T5S, R2E, Carter Co, OK. Occurs southeast of Ardmore and west of Hoxbar. Consists chiefly of shales, divided into the following members (ascending): Confederate limestone, Union Dairy, Westheimer, Crinerville, Anadarche, Daube, and Zuckermann. These members separated from each other by unnamed parts of Hoxbar. Basal part consists of several brown limestones, one of which is prolific FUSILINA CYLINDRICA horizon. Upper part consists of white sandstones separated by light-blue to yellow and red shales. Becomes less calcareous toward the southeast. Near top of member, 4 mi southeast of Ardmore, a coal seam 2-4 ft thick occurs. Total thickness of Hoxbar is 4,000 ft."
+  },
+  {
+    "code": "IPht",
+    "name": "Hilltop Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, siltstone, sandstone",
+    "description": "OKLAHOMA CITY- Mainly shale, grading upward into massive siltstone and fine- grained sandstone; grades northward into \"Barnsdall Formation\", \"Chanute Formation\", and \"Dewey Limestone\". Thickness ranges from 0 to 200 feet. ARDMORE-SHERMAN- Shale, blue-gray to red-brown, with buff siltstones and fine-grained sandstones at top; thickness, about 70 feet."
+  },
+  {
+    "code": "IPbv",
+    "name": "Vamoosa + Tallant + Barnsdall Formations",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, siltstone, sandstone",
+    "description": "TULSA- \"Vamoosa Formation,\" shale, sandstone, siltstone, and thin limestone. \"Tallant Formation,\" shale, sandstone, and thin limestone. \"Barnsdall Formation,\" shale, siltstone, sandstone, and thin limestone."
+  },
+  {
+    "code": "IPto",
+    "name": "Torpedo Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone, shale",
+    "description": "TULSA- Thin-bedded to massive medium-grained sandstone and shale."
+  },
+  {
+    "code": "IPta",
+    "name": "Tallant Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone, shale",
+    "description": "ENID- Alternating layers of shale and fine- to medium-grained sandstone. Thickness ranges from 75 to 250 feet (23 to 75 m). OKLAHOMA CITY- Mostly fine- to medium-grained sandstone 10 to 60 feet thick overlain by shale 25 to 65 feet thick. Cut out by \"Vamoosa Formation\" in central part of area. Total thickness ranges from 0 to 100 feet. Comments: Named from town of Tallant, Osage Co, OK, Chautauqua platform. Occurs from T23N to the KS-OK state line. Consists of sandstone and shale. Many of the sandstone beds are fine grained and tightly cemented; locally some are moderately coarse grained and poorly sorted. Thickness varies from approximately 0 ft to 400 ft Divided into (ascending) the Bigheart sandstone member, at base, which is separated from the Revard sandstone member by unnamed shales. The Revard is overlain by unnamed shale with lenticular sandstone bodies."
+  },
+  {
+    "code": "IPbd",
+    "name": "Barnsdall Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone, shale",
+    "description": "ENID- Formation is mainly fine- to medium-grained sandstone, overlain by shale. At top is a thick shale, with \"Okesa Sandstone Member\" in middle and \"Birch Creek Limestone\" (called \"South Bend Limestone\") at base. Birch Creek extends southward from Kansas border to Township 23 N., where limestone grades into overlying Okesa Sandstone. South of Township 23 N., Okesa grades downward into underlying \"Torpedo Sandstone\" and underlying Wann Formation. Total thickness ranges from 45 to 200 feet (14 to 60 m). OKLAHOMA CITY- Mostly fine-grained sandstone overlain by shale; may grade northward into \"Wann Formation\". Thickness ranges from about 80 to 200 feet. Comments: Named from the town of Barnsdall, Osage Co, OK, Chautauqua platform. Has been mapped southward to the South Canadian River. Occurs from KS-OK state line to T13N. Consists of shale, sandy limestone, limy sandstone. Thickness varies from approximately 80 ft to 300+ ft in this report area. Divided into (ascending) the: Birch Creek limestone and Okesa sandstone members, and Wildhorse limestone bed. Birch Creek and two overlying unnamed members are separated by an unnamed sandy limestone and are present at the KS-OK state line. The limestone grades south into the Okesa sandstone member."
+  },
+  {
+    "code": "IPwi",
+    "name": "Wann and Iola Formations or Iola Limestone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, limestone",
+    "description": "ENID- \"Wann Formation\" consists of shale and fine- to medium-grained sandstone with many thin layers of fossiliferous limestone. Thickness ranges from 50 to 400 feet (15 to 122 m). \"Iola Limestone\" is mainly limestone, calcareous sandstone, and shale and underlies Wann. Thickness ranges 4 to 100 feet (1 to 30 m). TULSA- \"Wann Formation,\" shale with thin sandstone and limestone.\"Iola Formation,\" limestone and shale. OKLAHOMA CITY- \"Wann Formation,\" shale and fine- to medium-grained sandstone; thickness, 40 to 180 feet. Underlying \"Iola Limestone,\" mainly fine-grained calcareous sandstone and limestone with some shale; thickness, 15 to 20 feet."
+  },
+  {
+    "code": "IPch",
+    "name": "Chanute Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone, shale",
+    "description": "ENID- Mainly fine-grained micaceous sandstone and coarse-grained, crossbedded sandstone separated by shale. Locally Chanute contains thin coal seams. Thickness ranges from about 10 to 150 feet (3 to 45 m). TULSA- Thin- to thick-bedded, fine- to coarse-grained sandstone and shale. OKLAHOMA CITY- Mainly fine- to medium-grained sandstone 3 to 20 feet thick, overlain by shale 20 to 80 feet thick. Total thickness ranges from about 25 to 90 feet."
+  },
+  {
+    "code": "IPb",
+    "name": "Belle City Formation or Limestone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "limestone, shale",
+    "description": "OKLAHOMA CITY- \"Belle City Limestone\"-Consists of two fossiliferous limestone units with an intervening fossiliferous shale. Thickness ranges from 12 to20 feet; present in southern part of area only, where it is below \"Hilltop Formation\". ARDMORE-SHERMAN- 'Belle City Formation\"-Limestone, gray to buff, dense, in 2 beds each 2 to 3 feet thick, with interbedded dark-gray shale, 10 to 20 feet thick."
+  },
+  {
+    "code": "IPn",
+    "name": "Nellie Bly Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, siltstone, limestone, conglomerate",
+    "description": "TULSA- Shale and thin sandstone. ARDMORE-SHERMAN- Shale, siltstone, fine-grained sandstone, chert conglomerate, limestone, and limestone conglomerate, dark-gray to buff; thickness, 200 to 300 feet."
+  },
+  {
+    "code": "IPhg",
+    "name": "Hogshooter Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "limestone",
+    "description": "TULSA- Limestone and some shale. (Mapped with the Nellie Bly Formation south of Bartlesville). Comments: Named from Hogshooter Creek, Washington Co, OK on the Chautauqua platform. Limestone which in its northern extension is heavily bedded and massive but to the southward is thin bedded and argillaceous. Thickness at the state line is about 10 ft; is 6 or 8 ft thick along Hogshooter Creek; is 4 ft Fossils fairly abundant."
+  },
+  {
+    "code": "IPd",
+    "name": "Dewey Formation or Dewey Limestone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "limestone, sandstone, shale",
+    "description": "ENID- \"Dewey Limestone\"- Mainly medium-crystalline limestone and shale. Thickness ranges from 0 to 60 feet (0 to 18 m). TULSA- \"Dewey Formation\"- Limestone and some shale. (Mapped with the Chanute formation south of Bartlesville). OKLAHOMA CITY- \"Dewey Limestone\"- Mainly sandy limestone or calcareous sandstone containing limestone lenses 1.5 to 20 feet thick, overlain by shale 5 to 50 feet thick. Total thickness ranges from 20 to 60 feet. Comments: Named from the town of Dewey, Washington Co, OK on the Chautauqua platform. Is a bluish, semi-crystalline limestone, usually somewhat shaly but often massively bedded; on weathering, gives surface fragments abounding in seams of calcite. At the cement plant at Dewey is at least 20 ft thick; at Ochelata and Ramona is about 15 ft thick."
+  },
+  {
+    "code": "IPnh",
+    "name": "Nellie Bly Formation and Hogshooter Limestone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, limestone, sandstone",
+    "description": "ENID- \"Nellie Bly Formation\" consists mainly of shale with a few layers of fine- to medium-grained sandstone. Thickness ranges from 80 to 550 feet (25 to 170 m). Underlying \"Hogshooter Limestone\" is massive crinoidal limestone 1 to 50 feet (0.3 to 14 m) thick. OKLAHOMA CITY- \"Nellie Bly Formation,\" mainly shale with many fine-grained sandstone beds and limestone beds locally in upper part; thickness, about 250 to about 550 feet. Underlying \"Hogshooter Limestone,\" massive crinoidal limestone 1 to 15 feet thick."
+  },
+  {
+    "code": "IPcf",
+    "name": "Coffeyville or Francis Formation (restricted)",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, limestone",
+    "description": "ARDMORE-SHERMAN- Shale, dark-blue, 20 to 70 feet thick, with \"DeNay Limestone,\" yellow, massive, 2 to 6 feet thick at base, and 20 feet or more of buff fine- to coarse-grained sandstone and chert conglomerate at top. (Upper Franks Conglomerate). Comments: Named for Francis, Stonewall quad, Pontotoc Co, OK, westward from which outcrop extends. Type area is that portion of outcrop which extends 3 mi north and south of Canadian River, Pontotoc and Seminole Cos, OK, Arkoma basin and Chautauqua platform. Includes (ascending): DeNay limestone; dark-blue and black shales, about 30 ft; these grade upward into sandstones which (on creek bluff west of Sasakwa) are 20 ft thick; a series of thick, dark, sometimes calcareous shales, average thickness 250 ft (slightly more to north, slightly less to south). Lower part of this shale much darker and more calcareous than upper part--contains limestone concretions, often fossiliferous; 100 ft of coarse brown sandstones and chert conglomerates, with only occasional fossils; 100 ft of shale with a few thin sandstones and one persistent conglomeratic limestone (often very fossiliferous)."
+  },
+  {
+    "code": "IPcc",
+    "name": "Coffeyville and Checkerboard Formations or Checkerboard Limestone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, limestone",
+    "description": "ENID- \"Coffeyville Formation\" is mainly shale interbedded with fine-to medium-grained sandstone. Locally formation contains thin coal seams. Thickness ranges from 175 to 470 feet (50 to 140 m). Underlying \"Checkerboard Limestone\" is crystalline limestone 2 to 15 feet (1 to 5 m) thick. TULSA- \"Coffeyville Formation,\" shale and thin-bedded sandstone. \"Checkerboard Formation,\" limestone and some shale. OKLAHOMA CITY- \"Coffeyville Formation,\" mainly shale interbedded with fine- to medium-grained sandstone locally containing chert and limestone conglomerate and thin coal seams; thickness, 150 to 470 feet. Underlying \"Checkerboard Limestone,\" crystalline limestone 2.5 to 5 feet thick."
+  },
+  {
+    "code": "IPde",
+    "name": "Deese Group",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone, conglomerate, shale",
+    "description": "ARDMORE-SHERMAN- Member of Glenn Fm, mainly massive sandstone, conglomerate and shale. Base of \"Confederate Limestone\" down to top of \"Otterville Limestone;\" thickness, 9,700 feet. Occurs in the ARDMORE BASIN. Comments: Named as one of five members of Glenn formation; probably named for the town of Deese, Carter Co, OK, S. Oklahoma folded belt province. Occurs in a northwest-southeast exposure just east of Deese; north of Ardmore, extends as far east as Santa Fe Railway; is in small area immediately west of Glenn; and is east of Criner Hills. Deese member has roughest topography in region, consisting of a large number of massive sandstones, conglomerates, shales, and a few limestones. North of Ardmore, base marked by brown limestone bearing an abundance of SPIRIFER CONDOR. South of Ardmore, this horizon seen as bed of chert. Total thickness is 6,000-8,000 ft."
+  },
+  {
+    "code": "IPdo",
+    "name": "Dornick Hills Group",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, limestone, conglomerate, sandstone",
+    "description": "ARDMORE-SHERMAN- Series of tan shales with limestones, limestone conglomerate and sandstone. Top of \"Otterville Limestone\" down to base of \"Lake Ardmore Sandstone;\" thickness 1,800 feet. Occurs in the ARDMORE BASIN. Comments: Named as a formation in the Ardmore basin in southern OK in the S. Oklahoma folded belt province. Consists of a series of bluish, tan, and rarer reddish and brown shales, with limestones, limestone conglomerates and sandstones. Maximum observed thickness of about 4,000 ft in north edge of Love Co; decreases northward to about 2,500 ft near town of Ardmore; decreases further to less than 1,500 ft near Glenn village."
+  },
+  {
+    "code": "IPsl",
+    "name": "Seminole Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, conglomerate",
+    "description": "TULSA- Shale, sandstone, and thin coal beds. OKLAHOMA CITY- Chert conglomerate, shale, and fine-grained sandstone containing coal seams in upper part locally. Thickness ranges from 100 to 375 feet. FORT SMITH- Sandy shale, sandstone, and thin coal seams. ARDMORE-SHERMAN- Shale, gray-green, with buff fine-grained sandstones, chert conglomerates, and limy sandstones; thickness, about 120 feet. (Upper Franks Conglomerate). Comments: Probably named for Seminole [Indian] Nation, where unit crops out in rugged hilly country in northwestward part of Coalgate quad, Hughes Co, OK, Chautauqua platform. About 50 ft of lower part of Seminole is exposed in a small area in northwest corner of quad. This part is composed of laminated or stratified subangular chert, with a sprinkling of quartz pebbles from a diameter of 3 inches to small grains in a cement of fine brown and usually ferruginous sand. The coarser conglomerate in the beds at the base is loosely cemented, and on weathered surfaces it breaks down into rounded boulders and loose gravel. 40-50 ft from base the conglomerate grades into brown sandstone which continues upward about 100 ft to top of formation."
+  },
+  {
+    "code": "IPhu",
+    "name": "Upper Holdenville Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "ENID- Mainly shale with interbedded fine-grained sandstone locally containing beds of limestone. Only a few feet is exposed in quadrangle."
+  },
+  {
+    "code": "IPh",
+    "name": "Holdenville Formation or Holdenville Shale",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, conglomerate",
+    "description": "OKLAHOMA CITY- \"Holdenville Shale\"- Mainly clay shale with some interbedded fine-grained calcareous sandstone locally containing beds of crystalline limestone. Thickness ranges from 100 to 280 feet. FORT SMITH- \"Holdenville Shale\"- Shale, thin sandstone and minor limestones. ARDMORE-SHERMAN- \"Holdenville Formation\"- Shale, blue-gray, with light-brown sandstones and chert conglomerates and 2 prominent limestones--the upper, or \"Sasakwa Limestone,\" white, fine-grained, 1 to 15 feet thick, 35 feet below the top, and the lower, or \"Homer Limestone,\" dark-brown, sandy, 2 to 10 feet thick, 40 to 70 feet below the Sasakwa. Thickness, 210 to 260 feet. (Upper Franks Conglomerate). Comments: Probably named for Holdenville, Hughes Co, OK. Coalgate quad, OK, where unit is exposed only in small, triangular area in northwest corner of quad, in Hughes Co, Chautauqua platform, is 250 ft thick. Surface of formation becomes broader northward in the more level country about Holdenville, 3 mi north of border of quad. Composed of friable blue clay shale, with local thin beds of shelly limestone and shaly calcareous sandstone in upper part. Sandstone ledges outcrop in terraces around the slopes of the hills bordering north side of Little River. The thin limestone occurs about 35 ft below top of formation, and its outcrop is usually covered by the sandstone and conglomerate debris from the overlying [Wewoka] formation. In its usual exposure 1-2 ft only of shaly limestone may be seen. At other places a bed of shell breccia loosely cemented is found, representing the thin, hard plates of the shelly rock. The shales are rarely exposed."
+  },
+  {
+    "code": "IPlp",
+    "name": "Lenapah Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "limestone, shale",
+    "description": "TULSA- Limestone and shale. (Map unit only in Nowata County). Comments: Named for the town of Lenapah, Nowata Co, OK, Chautauqua platform. Occurs near the KS State line entirely east of the Verdigris River. Is the cap rock of most of the hills in northeast part of the Nowata quadrangle. Consists of a single bed of fossiliferous limestone which, when unaltered, is a dense, blue, and partly crystalline usually containing much fossils, especially brachiopods. Has little or no chert. Thickness of the formation is approximately 20 ft in the quarry 3 mi north of Lenapah; at Nowata, is 6-8 ft thick; less than 30 inches thick south of Nowata."
+  },
+  {
+    "code": "IPhl",
+    "name": "Holdenville and Lenapah Formations",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, limestone",
+    "description": "TULSA- \"Holdenville Formation,\" shale and minor sandstone and limestone. \"Lenapah Formation\", limestone and shale. (Map unit only in Tulsa County)."
+  },
+  {
+    "code": "IPnw",
+    "name": "Nowata Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale",
+    "description": "TULSA- Shale and minor sandstone and limestone. Comments: Named for the town of Nowata, Nowata Co, OK, Chautauqua platform. No type locality designated. Near the KS State line and east of Verdigris River, this formation occupies a narrow band between the escarpments of overlying and underlying limestones. Width of outcrop at Nowata is 2+ mi; is greater at Watova; in vicinity of Talala is 5 mi; east of Tulsa is 8 mi. Consists of a series of shales with a few interstratified sandstones and at lest one bed of coal; shales generally are bluish or greenish in color, weathering green or buff. Thickness varies from 50 ft to 600 ft at Tulsa."
+  },
+  {
+    "code": "IPol",
+    "name": "Oolagah Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "limestone, shale",
+    "description": "TULSA- Thin-bedded limestone and some shale in the southern part of the area. North of Oolagah, in western Rogers County, the map unit, IPol, includes the following formations: \"Altamont Formation,\" limestone and minor shale; \"Bandera Formation,\" shale and thin sandstone; \"Pawnee Formation,\" limestone and minor shale."
+  },
+  {
+    "code": "IPw",
+    "name": "Wewoka Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "OKLAHOMA CITY- Interbedded fine- to medium-grained sandstone and calcareous shale. Thickness ranges from 400 to 750 feet. FORT SMITH- Shale, sandstone, and minor limestones. ARDMORE-SHERMAN- Shale, blue-gray, sandstone, chert conglomerate, and limestone conglomerate; thickness, 400 feet. Comments: Named from town of Wewoka, Seminole Co, OK, Arkoma basin and Chautauqua platform. Is a succession of massive, mostly friable sandstones and shales--7 alternating beds in all--from 40 to 130 ft thick; total thickness of formation 700 ft. Consists of (ascending): 1) sandstone division, which is thinner, but generally harder, than succeeding 3 sandstone divisions. At base of this division are local indurated beds of sandy chert conglomerate, which thin east and north; 2) Next is fossiliferous, friable blue clay shale 120 ft thick, ending locally in thin, white, fossiliferous limestone. 3) Succeeding sandstone member is about 110 ft thick; beds are massive and friable, breaking down into loose sand and weathering into rounded ledges. 4) Next is soft, fossiliferous blue clay shale nearly 130 ft thick; remarkable for abundant, perfectly preserved fossil shells. 5) Next is 60-ft thick sandstone bed. 6) Next is a 45-ft shale bed. 7) At top is sandstone member estimated 100 ft thick. Uppermost beds of this topmost member are shaly, and culminate in a shaly sandy limestone."
+  },
+  {
+    "code": "IPwe",
+    "name": "Wetumka Shale",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale",
+    "description": "OKLAHOMA CITY- Mainly sandy, silty, laminated shale 100 to 200 feet thick. FORT SMITH- Shale, minor sandstones, and minor limestones. ARDMORE-SHERMAN- Shale, blue-gray, with some sandstones and siltstones; thickness, 120 to 250 feet. Comments: Composed of friable, laminated clay shales except for thin, shaly sandstone layers near center. Estimated to be about 120 ft thick throughout area of occurrence, Coalgate quad, Coal Co, OK in Arkoma basin."
+  },
+  {
+    "code": "IPca",
+    "name": "Calvin Sandstone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone",
+    "description": "OKLAHOMA CITY- Medium-grained, thin-bedded to massive sandstone and silty shale. Thickness ranges from 230 to about 440 feet. FORT SMITH- Shale and sandstone. ARDMORE-SHERMAN- Sandstone, brown, medium-grained, with some gray shale; thickness, 40 to 320 feet, thinner southward. Comments: Area of Coalgate quad, Coal and Hughes Cos, OK in Arkoma basin and Chautauqua platform where unit is exposed in north-central and western parts of quad. Composed of massive and thin-bedded sandstone with some shaly beds in upper part, 140-240 ft thick. For nearly 140 ft upward from base, is massive but not very hard sandstone. In southern part of outcrop, lower sandy member becomes shaly, and even the massive beds which occur are more friable than same deposits in northern part of quad. Near middle of lower sandstone member, west of Sand Creek, there is a shaly and slightly calcareous bed which contains hematite; bright-red color of this bed upon weathering is a characterisitic feature of unit. Upper part of unit is least shaly in northern part of area, and many beds are hard and weather into slabs and hard plates. Upper 90-100 ft here contains two, and in places more, shaly beds 10-20 ft thick. Sandstone beds of this upper portion decrease southwestward from 40 ft to thin layers interstratified with shales."
+  },
+  {
+    "code": "IPlb",
+    "name": "Labette Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale",
+    "description": "TULSA- Shale and thin sandstone and limestone. Comments: Range between 30 and 80 ft thick. Forms topographic depressions. Has a persistent, buff, fine-grained sandstone in upper part. Extends south from KS into OK as far as the latitude of Nowata, KS on the Chautauqua platform."
+  },
+  {
+    "code": "IPfs",
+    "name": "Fort Scott Limestone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "limestone, shale",
+    "description": "TULSA- Limestone and shale. (Mapped with the Labette Formation south of Bird Creek inTulsa County)."
+  },
+  {
+    "code": "IPse",
+    "name": "Senora Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone, shale",
+    "description": "TULSA- Shale with thin and lenticular sandstone, minor limestone, and coal. OKLAHOMA CITY- Mainly fine-grained micaceous sandstone and shale locally containing coal beds. Thickness ranges from about 500 to 950 feet. FORT SMITH- Shale, sandstone, and thin coal seams. ARDMORE-SHERMAN- Shale, gray, and light-brown medium-grained sandstone; thickness, 150 to 500 feet, decreasing southwestward. Subdivided into lower sandstone, 350 feet thick, and upper shale, 150 feet thick. Comments: Composed of interstratified sandstones and shaly beds nearly 500 ft thick in northeast part of Coalgate quad, Coal and Hughes Cos, OK, Arkoma basin and Chautauqua platform. Thickness decreases to southwest, chiefly by thinning of sandstone beds; at western edge of quad does not exceed 150 ft. In norther outcrop area, lower 320 ft of formation composed almost entirely of sandstone which forms a rugged, stony highland with sandstone bluffs, some 100 ft high, along eastern side. This sandstone grades upward through thin, sandy beds into shale strata about 160 ft thick. Near middle of quad, lower massive sandstone becomes divided and shale beds 20-75 ft thick appear. In western part of quad, sandstone beds become quite variable in thickness and in their position in the formation. Upper, and more shaly member is 100-120 ft thick in western part. In texture, sandstones are generally fine grained, and gray or reddish brown in color. Shales rarely well exposed. Bluish clay shales and brownish sandy shales belonging in upper part of series, however, are exposed in deeper cuttings of streams flowing from higher land of succeeding Calvin sandstone."
+  },
+  {
+    "code": "IPst",
+    "name": "Stuart Shale",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale",
+    "description": "OKLAHOMA CITY- Mostly laminated clay shale and minor amounts of silty sandstone. Thickness ranges from 80 to 180 feet. FORT SMITH- Shale and minor sandstone. ARDMORE-SHERMAN- Shale, blue to dark-gray, with some fine- to medium-grained brown sandstones; thickness, 80 to 300 feet, decreasing southwestward. McALESTER TEXARKANA- Shale, blue to dark-gray, with some fine- to medium-grained sandstones; top eroded; lower 20 feet exposed. Comments: Is 275 ft thick in northeast and central part of Coalgate quad, Coal Co, OK, Arkoma basin, and about 100 ft in western part. Composed of three [informal] members: upper and lower ones of shale, separated by a variable sandstone 10-50 ft thick. In central part of quad, a thin sandstone and chert conglomerate lentil occurs in lower shale member. This lower member has a nearly constant thickness of about 120 ft from northeast corner of quad southwestward to within 10 mi of quad border where it begins to contract; at western border does not exceed 50 ft. Composed chiefly of bluish and black laminated clays. Crops out in a level, rolling tract bordering the timber belt of underlying Thurman sandstone on east. Upper member is composed of bluish shales, 10-120 ft thick. Forms flattopped ridges and hills with eastward and southward-facing bluffs. To west gradually changes to thin shaly beds, and finally disappears."
+  },
+  {
+    "code": "IPth",
+    "name": "Thurman Sandstone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone",
+    "description": "OKLAHOMA CITY- Mainly medium-grained, silty sandstone with cherty conglomerate at base. Only a few feet exposed in quadrangle. FORT SMITH- Sandstone and shale. ARDMORE-SHERMAN- Sandstone, brown, fine- to coarse-grained, with some gray shale and basal 50-foot chert conglomerate; thickness, 80 to 250 feet, decreasing southwestward. McALESTER TEXARKANA- Sandstone, brown, fine- to coarse-grained, with some gray shale and a basal 50-foot chert conglomerate; grades northward into Boggy Formation; top eroded at many places; thickness, 200 feet. Comments: First published use in Pittsburg Co, OK, Arkoma basin. Probably named for the town of Thurman. No type locality designated. Occurs in the McAlester coal district in the McAlester quadrangle, where it has an exposure of about 200 ft. The lower part, 50+ ft thick, is a conglomerate of angular or little rounded chert fragments in a brown sandstone matrix. Brown sandstone and shaly beds occur above the conglomerate."
+  },
+  {
+    "code": "IPbo",
+    "name": "Boggy Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "TULSA- Shale, sandstone, and coal. FORT SMITH- Shale, sandstone, and coal; includes Bluejacket Sandstone Member at base. ARDMORE-SHERMAN- Shale and sandstone, blue-gray to brown, fine- to coarse-grained, with some thin limestone lenses and a coal bed 2.5 feet thick about 400 feet above base. Thickness, 1,250 to 2,800 feet. \"Bluejacket Sandstone,\" IPbj, at base, 8 to 12 feet thick, with 2-foot \"Secor coal\" 50 feet above top of Bluejacket. (Lower Franks Conglomerate). McALESTER TEXARKANA- Shale, brown, to blue-gray, illitic, chloritic, with many sandstones, fine- to coarse-grained, micaceous, quartzose, moderately to well-indurated, with \"Secor coal\" about 50 feet above base; thickness, 2,140 to 4,000 feet, increasing eastward. Comments: First published use in central part of OK in Pittsburg Co, Arkoma basin. Probably named for North Boggy Creek. Occurs in the McAlester coal district in the McAlester quadrangle, and in the Lehigh coal district in the Atoka and Colgate quadrangles. In the McAlester coal district, consists generally of a mass of shale and sandstone nearly 3,000 ft thick; probably not less than sixteen beds of sandstone 20-150 ft thick, separated by shale 100-600 ft thick. Shales are bluish fissile clay containing ironstone concretions, thin wavy sandstone plates, and shaly sandstone strata; sandstones are generally brownish or gray, fine grained, and some beds are quite ferruginous. In the Lehigh coal district, rocks are practically the same in character as in the McAlester district; they are shales and sandy shales with many thin sandstones of practically the same quality, texture, and color."
+  },
+  {
+    "code": "IPbj",
+    "name": "Bluejacket Sandstone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone",
+    "description": "ARDMORE-SHERMAN- \"Bluejacket Sandstone,\" IPbj, sandstone, at base, of Boggy FM, 8 to 12 feet thick, with 2-foot \"Secor coal\" 50 feet above top of Bluejacket. McALESTER TEXARKANA- Sandstone, tan, fine- to coarse-grained, micaceous, quartzose, moderately to well-indurated; erodes into a mappable escarpment; thickness, 12 to 266 feet, increasing eastward."
+  },
+  {
+    "code": "IPsa",
+    "name": "Savanna Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "TULSA- \"Savanna Formation,\" shale and thin sandstone, limestone, and coal.  FORT SMITH- IPsa \"Savanna Formation,\" shale, sandstone, and coal. ARDMORE-SHERMAN- Sandstone and shale, gray to brown, fine- to coarse- grained, cherty, with several thin coal seams near middle; thickness, 1,120 to 1,600 feet (Lower Franks Conglomerate).  McALESTER TEXARKANA- Shale, tan to brown, illitic, chloritic, and sandstone, fine-to coarse-grained, micaceous, quartzose, with several thin coal seams in middle, one of which is \"Cavanal coal;\" thickness, 1,470 to 2,000 feet, increasing eastward.  Comments: First published use in Pittsburg Co, OK, in the Arkoma basin.  Probably named for the town of Savanna. No type locality designated.  Occurs in the McAlester coal district in the McAlester quadrangle, and in the Lehigh coal district in the Atoka and Colgate quadrangles.  In the McAlester coal district, consists generally of a series of sandstones and shales about 1,150 ft thick; there are five principal sandstone beds with varying thicknesses from nearly 50 ft to 200 ft.  These sandstones are brown or grayish-brown, fine grained, and compact, generally thin and in part shaly.  In the Lehigh coal district, is similar to sandstones described in the McAlester coal district, but these sandstones become chert breccias throughout east side of the Lehigh Basin. "
+  },
+  {
+    "code": "IPm",
+    "name": "McAlester Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "ARDMORE-SHERMAN- Shale, gray, with \"Upper Hartshorne coal\" 1 to 50 feet above base, 500 to 600 feet thick; overlain by dark-gray shale with many buff fine-grained sandstones, 595 to 1,030 feet thick; overlain by dark-gray shale, 300 to 925 feet thick, with \"McAlester coal,\" 1 to 3 feet thick, a few feet above base. Total thickness ranges from 1,150 to 2,420 feet. (Lower Franks Conglomerate). McALESTER TEXARKANA- Shale, gray, illitic, chloritic, with many tan to gray sandstones, fine- to coarse-grained, micaceous, quartzose; \"McAlester and Stigler coals\" 600 to 800 feet or more below top; thickness, 2,000 to 2,830 feet, increasing eastward. Comments: First published use in Pittsburg Co, OK, in the Arkoma basin. Probably named for the town of McAlester. No type locality designated. Occurs in the McAlester coal district in the McAlester quadrangle, and in the Lehigh coal district in the Atoka and Colgate quadrangles. In the McAlester coal district, consists of (ascending): 1) 800 ft of shale, with thin sandstone and coal, and Hartshorne or Grady coal occurring near base of shale; 2) three to four beds of sandstone separated by shale 100-200 ft thick, together this sandstone and shale is 500 ft thick; and 3) 700 ft of shale with the McAlester coal about 50 ft above its base--shale is blue, gray, or black with the gray color predominant. In the Lehigh coal district, consists generally of cherty sandstone beds and two workable coal beds."
+  },
+  {
+    "code": "IPsm",
+    "name": "Savanna and McAlester Formations",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "FORT SMITH- IPsm \"Savanna\" and \"McAlester Formations\" (undifferentiated; T. 15 N., Rs. 18, 19 E.), shale and minor sandstones."
+  },
+  {
+    "code": "IPsmh",
+    "name": "Savanna + McAlester + Hartshorne Formations",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale",
+    "description": "TULSA- \"Savanna, McAlester, and Hartshorne Formations,\" shale and some sandstone, limestone, and coal."
+  },
+  {
+    "code": "IPsma",
+    "name": "Savanna + McAlester + Hartshorne + Atoka Formations",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone, siltstone, limestone",
+    "description": "TULSA- \"Savanna, McAlester, Hartshorne, and Atoka Formations,\" shale, sandstone, siltstone, limestone, and coal."
+  },
+  {
+    "code": "IPha",
+    "name": "Hartshorne Sandstone",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "sandstone",
+    "description": "ARDMORE-SHERMAN- Sandstone, gray to white, medium- to coarse-grained with interbedded middle gray shale and \"Lower Hartshorne coal;\" thickness, 10 to 300 feet. McALESTER TEXARKANA- Sandstone, tan to gray to white, fine- to coarse-grained, micaceous, quartzose, moderately to well-indurated, with some interbedded gray shale; \"Lower Hartshorne coal\" in middle and \"Upper Hartshorne coal\" at top; thickness, 100 to 350 feet, increasing eastward. Comments: First published use in Pittsburg Co, OK, in the Arkoma basin. Probably named for the town of Hartshorne. No type locality designated. Occurs in the McAlester coal district in the McAlester quadrangle, and in the Lehigh coal district in the Atoka and Colgate quadrangles. Is the oldest unit mapped. In the McAlester coal district, is a brown to light-gray sandstone 200 ft thick. Near the top, beds are very thick and some are massive, and occur as roughly rounded masses and thick ledges. In lower part, many of the beds are thin and slabby and associated with sandy shales. In the Lehigh district, occurs in the valley of North Boggy Creek; is a brownish fine sandstone which changes to a breccia of chert fragments in brown sandstone matrix. Lies below the Hartshorne coal and is separated from it by thin, variable bed of shale."
+  },
+  {
+    "code": "IPmh",
+    "name": "McAlester and Hartshorne Formations",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "TULSA- \"McAlester and Hartshorne Formations\", shale and some sandstone and coal. FORT SMITH- IPmh \"McAlester\" and \"Hartshorne Formations\" (undifferentiated), shale, sandstone, and coal."
+  },
+  {
+    "code": "IPat",
+    "name": "Atoka Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Middle Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "TULSA- IPat \"Atoka Formation,\" shale, siltstone, sandstone, and thinlimestone. FORT SMITH- IPat \"Atoka Formation,\" shale and sandstone. ARDMORE-SHERMAN- Shale, dark-gray, and sandstone, buff to white, fine- to coarse-grained, with some chert conglomerates; thickness, 800 to 3,000 feet. McALESTER TEXARKANA- Shale, gray to tan, illitic, chloritic, with many sandstones, fine- to coarse-grained, quartzose, micaceous, well- to poorly sorted; \"Fanshawe\" and \"Red Oak Sandstones\" in middle and \"Spiro Sandstone\" at base; thickness, 3,000 to 10,000 feet, increasing southeastward in subsurface, south of growth faults. Comments: First published use in eastern Choctaw coal field, Le Flore, Latimer, Pittsburgh, and Atoka Cos, Arkoma basin and Ouachita tectonic belt province. Probably named for town of Atoka, Atoka Co, OK. No type locality designated. Crops out along south side of eastern Choctaw coal field, T5N, R17 to 27E. Consists of brown or light-gray, thin, slabby sandstone, separated by shaly layers which occasionally have ferruginous ironstone concretions. Is 6,000-7,000 ft thick."
+  },
+  {
+    "code": "IPlm",
+    "name": "Lynn Mountain Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "McALESTER TEXARKANA- Shale, gray to tan, with many fine- to coarse-grained, quartzose, micaceous sandstone with many bottom markings; top eroded; thickness, 3,000 to 7,000 feet or more; unconformable upon Goddard, Delaware Creek, Woodford, and older beds that are exposed north and west of Ti Valley Fault. Occurs in the OUACHITA MTNS."
+  },
+  {
+    "code": "IPbh",
+    "name": "Bloyd and Hale Formations",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "limestone, shale, sandstone",
+    "description": "TULSA- \"Bloyd Formation,\" limestone and shale. \"Hale Formation,\" limestone and sandstone. FORT SMITH- IPbh \"Bloyd Formation,\" shale and limestone; and \"Hale Formation,\" limestone and sandstone."
+  },
+  {
+    "code": "IPu",
+    "name": "Atoka, Bloyd and Hale Formations Undifferentiated",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, limestone, sandstone",
+    "description": "FORT SMITH- IPu Undifferentiated. Atoka, Bloyd, and Hale Formations. IPat \"Atoka Formation,\" shale and sandstone, IPbh \"Bloyd Formation,\" shale and limestone; and \"Hale Formation,\" limestone and sandstone."
+  },
+  {
+    "code": "IPwa",
+    "name": "Wapanucka Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "limestone",
+    "description": "ARDMORE-SHERMAN- Limestone, gray to tan, fine-grained to oolitic. Mapped separately along Lawrence uplift as IPwal, 30 to 75 feet thick with gray shale, IPwas, below, about 160 feet thick. Occurs in the ARBUCKLE MTNS. Comments: Probably named for Wapanucka, in Johnston Co, OK. Crops out as narrow band along eastern border of the older Caney shale (new) in southeast and southwest corners of Coalgate quad, Coal Co, OK, Arkoma basin. Is extensive but thin lentil reaches beyond quad borders. Produces ridges, except where beds are overturned, allowing shale on both sides to erode, leaving limestone unprotected. Abrupt ending of unit at south end of Limestone Ridge due to displacement by an extensive fault. Southward at Boggy Depot, Atoka quad, Ouachita tectonic belt province, it emerges, bearing northwest and continuing to southwest corner Coalgate quad. Beds at top are white, massive, often oolitic. Cherty, sandy limestones and shales occur in central part. Below this is a massive white limestone (not constant in thickness, often missing). At base are calcareous and cherty sandstones which grade into shales on one hand, into nearly pure ferruginous sandstones of the other. In Limestone Ridge lowest strata are thin cherts and flint plates, interbedded with siliceous limestone. In vicinity of Wapanucka, S. Oklahoma folded belt province, sandstone beds occur at base. Whole unit thins westward. 200 ft thick at Limestone Ridge; 30 ft thick at west edge of quad."
+  },
+  {
+    "code": "IPwal",
+    "name": "Wapanucka Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "limestone",
+    "description": "ARDMORE-SHERMAN- Limestone, gray to tan, fine-grained to oolitic. Mapped separately along Lawrence uplift as IPwal, 30 to 75 feet thick with gray shale, IPwas, below, about 160 feet thick. Occurs in the ARBUCKLE MTNS"
+  },
+  {
+    "code": "IPwas",
+    "name": "Wapanucka Formation",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "limestone",
+    "description": "ARDMORE-SHERMAN- Limestone, gray to tan, fine-grained to oolitic. Mapped separately along Lawrence uplift as IPwal, 30 to 75 feet thick with gray shale, IPwas, below, about 160 feet thick. Occurs in the ARBUCKLE MTNS"
+  },
+  {
+    "code": "IPwc",
+    "name": "Wapanucka Formation and Chickachoc Chert",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "limestone, sandstone, shale",
+    "description": "ARDMORE-SHERMAN- Limestone, gray to brown, spicular, granular to oolitic; alternates with gray shale and calcareous sandstone; thickness, 270 to 720 feet. Chert content increases southeastward. Occurs in the OUACHITA MTNS. McALESTER TEXARKANA- Limestone, gray to brown, oolitic to granular, with sponge-spicular chert in middle 50 to 114 feet with overlying and underlying calcareous sandstones and shales; thickness, 600 to 700 feet, pinching out in subsurface near Ti Valley Fault. Occurs in the OUACHITA MTNS, NORTH OF TI VALLEY FAULT. Comments: Chickachoc Chert: First used as a chert lentil in the lower part of Atoka formation. Area of report is Coalgate quad, Coal Co, OK, Arkoma basin, where Chickachoc occurs in southeast corner of quad. Is about 80 ft thick and composed of stratified, yet massive, calcareous and cherty sandstone."
+  },
+  {
+    "code": "IPlg",
+    "name": "Limestone Gap",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "McALESTER TEXARKANA- Shale and sandstone, gray to tan, illitic, chloritic, micaceous, quartzose, fine- to coarse-grained, moderately to well-indurated, with some ironstone concretions and many bottom marks; thickness, approximately 1,000 feet, pinching out in subsurface near Ti Valley Fault. Occurs in the OUACHITA MTNS NORTH OF TI VALLEY FAULT. Comments: Named as a formation of Springer group of Morrow series of the Bendian period. Type locality designated at Limestone Gap (source of name), sec 31, T2N, R13E, Atoka Co, OK in the Ouachita tectonic belt province. Occurs in the frontal Ouachitas, Ardmore basin, and Arbuckle Mountains; in the Ouachitas, is well exposed along Choctaw fault zone; in Ardmore basin, is well developed; in Arbuckle Mountains, areal distribution is exceedingly spotty and not traceable. Consists of gray-greenish, dark gray, and black bituminous shale with a profusion of siderite layers and concretions. In Ardmore basin, upper part ordinarily is predominantly silty and finely arenaceous; lower part contains in a few places thin arenaceous streaks, also contains scattered drab argillaceous limestone concretions with many fine plant fragments. Thickness is 1,250 ft about 5 mi east of the village of Springer, in a tributary of Cool Creek, along railroad track near center of SE1/4 sec 1, T3S, R2E, Carter Co, OK; thickness at type locality is 44 ft."
+  },
+  {
+    "code": "IPul",
+    "name": "Union Valley Formation with limestone",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "limestone",
+    "description": "ARDMORE-SHERMAN- Limestone, gray, fine- to medium-grained, IPul, 12 to 25 feet thick; with sandstone, IPus, below, fine- to medium-grained, about 150 to 260 feet thick. Occurs in the ARBUCKLE MTNS. Comments: Revised as basal formation of Springer group of Morrow series of the Bendian period. Formerly called Union Valley sandstone. Is a very widespread deposit and sandstones in most areas make up ridges of moderate relief. Found in east-central OK immediately south of Choctaw fault from vicinity of Limestone Gap to AR State line. \"Typical exposure\" is in the Ouachita Mountains in sec 36, T1S, R12E, Atoka Co; here it consists of gray to dark-gray shale and intercalated massive and thin-bedded greenish-yellow, limonitic, fine to medium subangular sandstone. Commonly casehardened by silica. Thickness is uniform and about 360 ftat most places in the Ouachita Mountains. Includes Stapp, conglomerate member (new) at base."
+  },
+  {
+    "code": "IPus",
+    "name": "Union Valley Formation with sandstone",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "limestone, sandstone",
+    "description": "ARDMORE-SHERMAN- Limestone, gray, fine- to medium-grained, IPul, 12 to 25 feet thick; with sandstone, IPus, below, fine- to medium-grained, about 150 to 260 feet thick. Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "IPjv",
+    "name": "Johns Valley Formation or Johns Valley Shale",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "shale",
+    "description": "ARDMORE-SHERMAN- \"Johns Valley Formation\"- Shale, dark-gray, with boulder conglomerate; thickness, 425 to 900 feet. Occurs in the OUACHITA MNTS. McALESTER TEXARKANA- \"Johns Valley Shale\"- Shale, dark-gray, with some stringers of Wapanucka-like limestone in northwestern part of area; contains exotic boulders of southern Arbuckle Mountain facies, ranging from Fort Sill to Goddard and as large as 369 feet in diameter; some Wapanucka nodules are not exotic but were formed in place; thickness, 300 to 1,000 feet. Occurs in the OUACHITA MTNS SOUTH OF TI VALLEY FAULT."
+  },
+  {
+    "code": "IPjf",
+    "name": "Jackfork Group or Jackfork Sandstone",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "sandstone",
+    "description": "ARDMORE-SHERMAN- \"Jackfork Sandstone\"- Sandstone, gray, white, and tan, coarse-grained, cherty, with gray shale and some boulders up to 7 feet in diameter; thickness 1,150 to 5,000 feet. Occurs in the OUACHITA MNTS. McALESTER TEXARKANA- \"Jackfork Group\"- Sandstone, tan to gray, fine- to coarse-grained, quartzose, with some mica, poorly to well-indurated, quartzitic has some gray shale and several maroon shales; black, white-speckled \"Chickasaw Creek Chert\" is at base; thickness, 1,500 to 6,000 feet or more. Occurs in the OUACHITA MTNS SOUTH OF TI VALLEY FAULT. Comments: Raised in rank to group--upper of two groups of the Pushmataha series (new) of the Bendian period. Is found in the Ouachita Mountains of OK in the Ouachita tectonic belt province. Best exposure in undisturbed sequence is in Prairie Mountain, T1S, R12E, Atoka Co, OK. This typically clastic deposit is divided into four newly named formations (ascending order); Wildhorse Mountain formation, Prairie Mountain formation, Markham Mill formation, and Wesley shale. Named for Jackfork Mountain, Pittsburg and Pushmataha Cos, OK. No type locality designated. Occurs in northeastern part of Atoka quad and to the east is the mountain-making formation of the Ouachita Range. Consists of a series of even-textured, fine-grained, brown and gray sandstone strata ranging from thin layers to massive beds 50 ft thick. Occasionally interstratified are thin beds of clay shale and shaly sandstone. Total thickness is 3,800 ft in Atoka quad. Typical greywacke."
+  },
+  {
+    "code": "IPmo",
+    "name": "Morrowan rocks undifferentiated",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Early Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "ARDMORE-SHERMAN- Shale and sandstone, gray to brown, fine- to coarse- grained; estimated thickness, 3,000 feet. Occurs in the OUACHITA MNTS."
+  },
+  {
+    "code": "IPma",
+    "name": "Morrowan-Atokan (?) rocks undifferentiated",
+    "series": "Pennsylvanian",
+    "max_age": "Early Pennsylvanian",
+    "min_age": "Middle Pennsylvanian",
+    "lithology": "shale, sandstone",
+    "description": "ARDMORE-SHERMAN- Shale and sandstone, gray to brown, fine- to coarse-grained; thickness, 5,000 to 9,000 feet. Occurs in the OUACHITA MNTS."
+  },
+  {
+    "code": "Mp",
+    "name": "Pitkin + Fayetteville + Hindsville + Moorefield Formations",
+    "series": "Mississippian",
+    "max_age": "Late Mississippian",
+    "min_age": "Late Mississippian",
+    "lithology": "limestone, shale",
+    "description": "FORT SMITH- Mp \"Pitkin Formation,\" limestone; \"Fayetteville Formation,\" shale and limestone; \"Hindsville Formation,\" limestone and shale; and \"Moorefield Formation,\" limestone."
+  },
+  {
+    "code": "Mpfh",
+    "name": "Pitkin + Fayetteville + Batesville + Hindsville + Moorefield Formations",
+    "series": "Mississippian",
+    "max_age": "Late Mississippian",
+    "min_age": "Late Mississippian",
+    "lithology": "limestone, shale",
+    "description": "TULSA- \"Pitkin Formation,\" limestone. \"Fayetteville Formation,\" shale and thin limestone. \"Batesville Formation,\" fine-grained sandstone. \"Hindsville Formation,\" limestone and shale. \"Moorefield Formation,\" limestone, shale, and siltstone."
+  },
+  {
+    "code": "Mg",
+    "name": "Goddard Shale",
+    "series": "Mississippian",
+    "max_age": "Late Mississippian",
+    "min_age": "Late Mississippian",
+    "lithology": "shale",
+    "description": "ARDMORE-SHERMAN- 1. Mainly shale, gray, limonitic; thickness, 3,600 feet in Ardmore Basin, 240-450 feet on Lawrence uplift. In places includes \"Rod Club\" and \"Overbrook Sandstones\" and \"Union Valley Formation-Wapanucka\" shale. Occurs in the ARBUCKLE MTNS. 2. Shale, gray, limonitic; estimated thickness, 500 feet, but may be 2,500. Occurs in the OUACHITA MNTS. McALESTER TEXARKANA- Shale, gray to black, with some sandstones and ironstone concretions; thickness, 500 feet or more. Occurs in the OUACHITA MTNS NORTH OF TI VALLEY FAULT. Comments: Type locality listed as on Goddard ranch in secs 17, 18, 19, and 20, T3S, R4E, Johnston Co, OK in S. Oklahoma folded belt province. In measured type section, lower part 1,189 ft thick is gray to black shale with limonitic concretions with pelecypods and ammonoids, and upper part 1,671 ft thick is mostly a covered interval--gray shale with ferruginous concretions."
+  },
+  {
+    "code": "Md",
+    "name": "Delaware Creek Shale",
+    "series": "Mississippian",
+    "max_age": "Early Mississippian",
+    "min_age": "Late Mississippian",
+    "lithology": "shale",
+    "description": "ARDMORE-SHERMAN- 1. Shale, dark-gray to black, fissile, calcareous; thickness, 160 to 750 feet, decreasing northward. Occurs in the ARBUCKLE MTNS. 2. Shale, dark-gray to black fissile; thickness 525 feet. Occurs in the OUACHITA MTNS. McALESTER TEXARKANA- Shale, black, laminated, with limestone, siderite, and phosphatic concretions, and with greenish-gray silty glauconitic shale at base; thickness, approximately 500 feet. Occurs in the OUACHITA MTNS NORTH OF TI VALLEY FAULT. Comments: Named as middle member (of 3) of Caney shale; named from Delaware Creek which flows eastward in the Bromide-Wapanucka area. Type are designated in the northeast part of T2S, R7E, about 3 1/2 mi southwest of Bromide; type locality measured in NE1/4 sec 14, T2S, R7E, Johnston Co, OK, S. Oklahoma folded beld province. Occurs in northern Arbuckle Mountains of south-central OK. Consists of gray to dark-gray, non-calcareous to slightly calcareous, finely laminated to flaky, partly bituminous shale, locally rotten (shattered) with a considerable amount of finely crystalline gypsum along bedding planes. Gray to light-gray to light-buff limestone concretions common; concretions are generally fairly large and elliptical, more or less compressed across bedding plane, and commonly very large, up to 12 ft in diameter; they developed in fused clusters along bedding planes; some have crystalline barite. Calcareous concretions mostly distinctly septarian in structure. Thickness at type is about 270 ft; thickness southeast of Ahlosa is 150 +- 50 ft; thickness in area southwest of Bromide ranges from about 50 ft in west part of sec 13, T2S, R7E, to about 270 ft."
+  },
+  {
+    "code": "Msw",
+    "name": "Sycamore and Welden Limestones",
+    "series": "Mississippian",
+    "max_age": "Early Mississippian",
+    "min_age": "Late Mississippian",
+    "lithology": "limestone",
+    "description": "ARDMORE-SHERMAN- Limestone, blue-gray to tan, silty, fine-grained; thickness, 2 to 370 feet, decreasing northeastward. Mapped separately in northeastern Arbuckle Mountains and Mannsville anticline; mapped elsewhere with underlying Woodford Shale. Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Mst",
+    "name": "Stanley Group or Stanley Shale",
+    "series": "Mississippian",
+    "max_age": "Early Mississippian",
+    "min_age": "Late Mississippian",
+    "lithology": "shale, sandstone",
+    "description": "ARDMORE-SHERMAN- \"Stanley Shale\"- Shale, dark-gray, siliceous, with some gray to buff fine-grained sandstones; thickness,10,000 feet. Occurs in the OUACHITA MNTS. McALESTER TEXARKANA- \"Stanley Group\"- Shale, olive-green to gray, illitic, chloritic, with many5- to 30-foot-thick beds of poorly sorted, micaceous, quartzose sandstones and some thin siliceous cherty beds and black shales; several tuff beds occur in basal 1,000 feet and are indicated by red line in Stanley exposures as designated on map; many asphaltite, lead, and quartz veins occur along fault zones; mostly Chesterian age; thickness, 7,500 to 14,000 feet or more. Occurs in the OUACHITA MTNS SOUTH OF TI VALLEY FAULT. Comments: Is found in the Ouachita Mountains of OK in the Ouachita tectonic belt province. Stanley shale is a sedimentary rock of typical geosynclinal facies. Stanley includes four siliceous shale members (ascending): Basal Ten Mile Creek, Tuskahoma, Middle Ten Mile Creek, and Moyers."
+  },
+  {
+    "code": "Mkr",
+    "name": "Keokuk and Reeds Spring Formations and St. Joe Group",
+    "series": "Mississippian",
+    "max_age": "Early Mississippian",
+    "min_age": "Early Mississippian",
+    "lithology": "chert, limestone",
+    "description": "TULSA- \"Keokuk Formation,\" chert and limestone. \"Reeds Spring Formation,\" chert and limestone. \"St. Joe Group,\" limestone and shale. FORT SMITH- Mkr \"Keokuk Formation,\" chert; \"Reeds Spring Formation,\" chert and limestone; and \"St. Joe 'Group,'\" limestone and marlstone."
+  },
+  {
+    "code": "Mu",
+    "name": "Mississippian Rocks above Chattanooga Shale Undifferentiated",
+    "series": "Mississippian",
+    "max_age": "Early Mississippian",
+    "min_age": "Late Mississippian",
+    "lithology": "limestone, shale, chert",
+    "description": "FORT SMITH- Mu- Undifferentiated Mississippian Rocks above Chattanooga Shale. Includes: Pitkin, Fayetteville, Hindsville, Moorefield, Keokuk and Reeds Spring Formations, and St. Joe Group."
+  },
+  {
+    "code": "MDw",
+    "name": "Woodford Shale",
+    "series": "Mississippian to Dovonian",
+    "max_age": "Late Dovonian",
+    "min_age": "Early Mississippian",
+    "lithology": "shale, chert",
+    "description": "McALESTER TEXARKANA- Shale and chert, black, fissile, with phosphatic nodules and some greenish-gray silty shale; at base is reddish-brown shale; rests on Pine Top Chert in Northeast quarter of section 5 of Township 2 North, Range 15 East; thickness, 67 feet at Pine Top. Occurs in the OUACHITA MTNS NORTH OF TI VALLEY FAULT. Comments: First published use in Atoka quad, Johnston and Atoka Cos, OK, South Oklahoma folded belt and Ouachita tectonic belt provinces. Probably named for town of Woodford, Carter Co, OK. No type locality designated. Exposed in northwestern part of Atoka quad. Forms low ridges and hills, Composed of thin strata of dark chert, cherty shale, and black, fissile, bituminous shale aggregating 500-700 ft in thickness. Is variable as to thickness and position of beds. Locally, chert makes up large part of the formation; elsewhere it is largely siliceous black shale. Concretions of flint found near base. Some cherty beds approach siliceous limestone."
+  },
+  {
+    "code": "MDSO",
+    "name": "Undifferentiated, Mississisippian, Devonian, Silurian, and Ordovician Rocks",
+    "series": "Mississippian to Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Late Mississippian",
+    "lithology": "limestone, shale, sandstone",
+    "description": "FORT SMITH- Mississisippian, Devonian, Silurian, and Ordovician Rocks, Undifferentiated. Mississippian and Devonian. \"Chattanooga Shale,\" shale. Devonian. \"Sallisaw Formation,\" limestone, sandstone, and chert; and \"Frisco Formation,\" limestone. Silurian. \"Quarry Mountain Formation,\" limestone; \"Tenkiller Formation,\" limestone; and \"Blackgum Formation,\" limestone and dolomite. Ordovician. \"Sylvan Shale,\" shale; \"Fernvale Limestone,\" limestone; \"Fite Limestone,\" limestone; \"Tyner Formation,\" shale, sandstone, dolomite, and limestone; \"Burgen Sandstone,\" sandstone and minor shales and limestones; and \"Cotter Dolomite,\" dolomite."
+  },
+  {
+    "code": "MDO",
+    "name": "Chattanooga + Fernvale + Fite + Tyner + Burgen + Cotter Formations",
+    "series": "Mississippian to Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Late Mississippian",
+    "lithology": "shale, limestone, dolomite, sandstone",
+    "description": "TULSA- \"Chattanooga Formation,\" shale and minor sandstone. \"Fernvale Formation,\" limestone. \"Fite Formation,\" limestone \"Tyner Formation,\" shale and dolomite \"Burgen Sandstone,\" sandstone and minor dolomite and shale. \"Cotter Formation,\" dolomite and minor sandstone."
+  },
+  {
+    "code": "MDSa",
+    "name": "Arkansas Novaculite",
+    "series": "Mississippian to Silurian",
+    "max_age": "Early Silurian",
+    "min_age": "Early Mississippian",
+    "lithology": "novaculite (chert), shale",
+    "description": "McALESTER TEXARKANA- Chert, fine- to very fine-grained, gray, green, tan, black, white, and pink, with interbedded black to gray shale in 1-to 18-inch beds; some interbedded conglomerates and in places a basal conglomerate; upper part has been determined to be Mississippian in age and lower part to be Early Silurian, on basis of examination of palynomorphs from Potato Hills; thickness, 600 feet or more. Occurs in the OUACHITA MTNS SOUTH OF TI VALLEY FAULT. Comments: novaculite refers to a dense cryptocrystalline siliceous sediment similar to chert but characterized by dominance of microcrystalline quartz over chalcedony-distinquished by polygonal triple-point texture."
+  },
+  {
+    "code": "Da",
+    "name": "Arkansas Novaculite",
+    "series": "Dovonian",
+    "max_age": "Late Dovonian",
+    "min_age": "Late Dovonian",
+    "lithology": "shale, novaculite",
+    "description": "ARDMORE-SHERMAN- Shale, black, cherty, with much novaculite; thickness, 230 to 375 feet. Occurs in the OUACHITA MNTS. Comments: novaculite refers to a dense cryptocrystalline siliceous sediment similar to chert but characterized by dominance of microcrystalline quartz over chalcedony-distinquished by polygonal triple-point texture."
+  },
+  {
+    "code": "Dw",
+    "name": "Woodford Shale",
+    "series": "Dovonian",
+    "max_age": "Late Dovonian",
+    "min_age": "Late Dovonian",
+    "lithology": "black shale",
+    "description": "ARDMORE-SHERMAN- Shale, black, fissile, cherty; thickness, 160 to 560 feet, increasing southward. Occurs in the ARBUCKLE MTNS. Comments: First published use in Atoka quad, Johnston and Atoka Cos, OK, South Oklahoma folded belt and Ouachita tectonic belt provinces. Probably named for town of Woodford, Carter Co, OK. No type locality designated. Exposed in northwestern part of Atoka quad. Forms low ridges and hills, Composed of thin strata of dark chert, cherty shale, and black, fissile, bituminous shale aggregating 500-700 ft in thickness. Is variable as to thickness and position of beds. Locally, chert makes up large part of the formation; elsewhere it is largely siliceous black shale. Concretions of flint found near base. Some cherty beds approach siliceous limestone."
+  },
+  {
+    "code": "Dp",
+    "name": "Pine Top Chert",
+    "series": "Dovonian",
+    "max_age": "Early Dovonian",
+    "min_age": "Early Dovonian",
+    "lithology": "limestone, chert",
+    "description": "McALESTER TEXARKANA- Limestone, chert, and cherty limestone, gray to light-gray to tan to white and pink; contains Haragan brachiopods; at top is an 8-foot chert conglomerate; base not exposed; thickness, 60 feet. Occurs in the OUACHITA MTNS NORTH OF TI VALLEY FAULT."
+  },
+  {
+    "code": "DSh",
+    "name": "Hunton Group",
+    "series": "Dovonian to Silurian",
+    "max_age": "Early Silurian",
+    "min_age": "Early Dovonian",
+    "lithology": "marlstone, shale, limestone",
+    "description": "ARDMORE-SHERMAN- Marlstone, shale, and limestone, buff, ranging in age from Early Silurian to Early Devonian; thickness, 100 to 700 feet, with many unconformities. Occurs in the ARBUCKLE MTNS. Comment: Named for village of Hunton, Johnston Co, OK in the South Oklahoma folded belt province. No type locality designated. Occurs in northwestern part of Atoka quad where it is 150 ft thick, and to west in Arbuckle uplift where it reaches 300-ft thickness. Forms sharp ridges and terraced hills. Is nearly pure limestone and limy marls. At base are variable beds of white oolite followed by bluish and cream-colored granular and fine-textured limestones and marly beds. Some beds are hard and crystalline, some composed largely of shell fragments. Near top are marly beds containing abundant fossils. Uppermost 50 ft is hard and thin-bedded, with chert concretions and fossils. (Taff, 1902) Named (Taff, 1902). Revised as group; divided into formations (ascending): Chimneyhill Limestone, Henryhouse Shale, Haragan Shale, and Bois d'Arc Limestone (Reeds, 1911). Divided into Keel, Cochrane, and Clarita Formations of Chimneyhill Subgroup (Amsden, 1967)."
+  },
+  {
+    "code": "Sm",
+    "name": "Missouri Mountain Shale",
+    "series": "Silurian",
+    "max_age": "Early Silurian",
+    "min_age": "Early Silurian",
+    "lithology": "shale, phyllite",
+    "description": "McALESTER TEXARKANA- Shale, greenish-gray to maroon to black; grades into phyllite in Broken Bow Uplift; contains some thin sandstones and gray conglomerates; a fossiliferous limestone occurs in Southeast quarter section 29, Township 4 South, Range 23 East; mapped as SmOp in Potato Hills, where it is included with Polk Creek Shale; thickness, 60 to 110 feet or less. Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Sb",
+    "name": "Blaylock Sandstone",
+    "series": "Silurian",
+    "max_age": "Early Silurian",
+    "min_age": "Early Silurian",
+    "lithology": "sandstone, shale, phyllite",
+    "description": "McALESTER TEXARKANA- Sandstone, greenish-gray, fine grained, well indurated, alternating with dark-gray to brown phyllites and shales in lower 100 feet; occurs only in Broken Bow Uplift and adjacent area; thickness, 670 to 804 feet, with maximum thickness in Arkansas 1,500 feet. Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Smb",
+    "name": "Missouri Mountain Shale and Blaylock Sandstone",
+    "series": "Silurian",
+    "max_age": "Early Silurian",
+    "min_age": "Early Silurian",
+    "lithology": "shale",
+    "description": "ARDMORE-SHERMAN- \"Missouri Mountain Shale,\" shale, black to gray-green to red; thickness, 100 feet; underlain by sandstone, several feet thick, correlated as \"Blaylock.\" Occurs in the OUACHITA MNTS."
+  },
+  {
+    "code": "SmOp",
+    "name": "Missouri Mountain and Polk Creek Shales",
+    "series": "Silurian to Ordovician",
+    "max_age": "Late Ordovician",
+    "min_age": "Early Silurian",
+    "lithology": "shale, phyllite",
+    "description": "McALESTER TEXARKANA- Shale, greenish-gray to maroon to black; grades into phyllite in Broken Bow Uplift; contains some thin sandstones and gray conglomerates; a fossiliferous limestone occurs in Southeast quarter section 29, Township 4 South, Range 23 East; mapped as SmOp in Potato Hills, where it is included with Polk Creek Shale; thickness, 60 to 110 feet or less. Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Op",
+    "name": "Polk Creek Shale",
+    "series": "Ordovician",
+    "max_age": "Late Ordovician",
+    "min_age": "Late Ordovician",
+    "lithology": "black shale, phyllite",
+    "description": "ARDMORE-SHERMAN- Shale, black; thickness, 175 feet. Occurs in the OUACHITA MNTS. McALESTER TEXARKANA- Shale and phyllite, dark-gray to black, with some chert nodules; contains many graptolites; thickness, 75 to 140 feet. (Same as Sylvan Shale in Arbuckle Mountains.) Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Obf",
+    "name": "Bigfork Chert",
+    "series": "Ordovician",
+    "max_age": "Middle Ordovician",
+    "min_age": "Middle Ordovician",
+    "lithology": "chert, limestone, shale",
+    "description": "ARDMORE-SHERMAN- Limestone, gray, and dark-gray to black chert; thickness, 575 feet. Occurs in the OUACHITA MNTS. McALESTER TEXARKANA- Chert, dark-gray to black, with interbedded graptolitic black shales and fossiliferous gray to black cherty limestones; contains asphaltite seams; erodes into a mappable escarpment; thickness, 600 to 800 feet. (Same as Viola Limestone in Arbuckle Mountains.) Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS. Comments: Unit is found in many parts of Ouachita Range. Consists of close textured, even-bedded, brittle, dark-gray chert in layers 1 to 18 inches thick. Weathered parts look like sandstone. Is about 700 ft thick. Has been mapped as novaculite but it is not novaculite."
+  },
+  {
+    "code": "Ow",
+    "name": "Womble Formation or Womble Shale",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Middle Ordovician",
+    "lithology": "sandstone, phyllite, shale",
+    "description": "ARDMORE-SHERMAN- \"Womble Shale\"- Shale, black to green; thickness, 250 feet, base covered. Occurs in the OUACHITA MNTS. McALESTER TEXARKANA- \"Womble Formation\"- Sandstone, phyllites, and shales, greenish-gray to dark-gray to black, weathering red-brown; some black to brown cherty limestones occur in upper part; Middle Ordovician graptolites are found in upper part, and Lower Ordovician graptolites in lower part; basal part faulted; estimated thickness, 1,000 feet or more, with maximum thickness in Arkansas 3,500 feet. Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Ovb",
+    "name": "Viola Limestone and Bromide Formation",
+    "series": "Ordovician",
+    "max_age": "Late Ordovician",
+    "min_age": "Late Ordovician",
+    "lithology": "limestone, shale, sandstone",
+    "description": "CLINTON- Limestone, limestone and shale interbedded, and sandstone; thickness, about 900 feet; one outlier is shown in southern part of quadrangle. Simpson and lower units are covered. LAWTON- Limestone, interbedded limestone and shale, and sandstone; thickness about 900 feet (270 m), faulted in isolated areas, top eroded, base covered."
+  },
+  {
+    "code": "Osfv",
+    "name": "Sylvan Shale + Fernvale Limestone and Viola Limestone",
+    "series": "Ordovician",
+    "max_age": "Middle Ordovician",
+    "min_age": "Late Ordovician",
+    "lithology": "limestone, shale",
+    "description": "ARDMORE-SHERMAN- \"Sylvan,\" shale, dark-greenish-gray; thickness, 60 to 325 feet. \"Fernvale\" and \"Viola,\" limestone, gray, fine- to coarse-grained; thickness, 350 to 900 feet. Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Obm",
+    "name": "Bromide + Tulip Creek and McLish Formations",
+    "series": "Ordovician",
+    "max_age": "Middle Ordovician",
+    "min_age": "Middle Ordovician",
+    "lithology": "limestone, shale, sandstone",
+    "description": "ARDMORE-SHERMAN- Limestone, buff; shale, grayish-green; and sandstone, brown to white, fine- to medium-grained: approximate sequence of rocks in each formation, from top to bottom. Thickness, 750 to 1,400 feet, thinning eastward. (Simpson Group) Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Ooj",
+    "name": "Oil Creek and Joins Formation",
+    "series": "Ordovician",
+    "max_age": "Middle Ordovician",
+    "min_age": "Middle Ordovician",
+    "lithology": "limestone, shale, sandstone",
+    "description": "ARDMORE-SHERMAN- Limestone, gray to tan, granular, with greenish-gray shale and brown fine- to medium-grained sandstone; thickness, 600 to 1,100 feet, decreasing eastward. (Simpson Group) Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Ows",
+    "name": "West Spring Creek Formation",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "limestone, dolomite",
+    "description": "ARDMORE-SHERMAN- Limestone, gray to tan, fine-grained, gradational eastward into tan fine- to coarse-grained dolomite; some tan to gray sandstone and shale; thickness, 1,875 to 3,000 feet, decreasing eastward. (Arbuckle Group) Individual Fm description not found. Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Oua",
+    "name": "Upper part of Arbuckle Group",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "limestone, dolomite",
+    "description": "LAWTON- Predominantly limestone and dolomite, 4,000 feet (1,200 m) thick, faulted in isolated areas. \"Upper part of Arbuckle Group undifferentiated,\" Oua, faulted in isolated areas north of Lawton. Comments: Arbuckle Group: Named for Arbuckle Mountains, Murray Co, OK, South Oklahoma folded belt province. Consists of limestones with dolomites. At base, 50 ft thin-bedded siliceous limestones gradually change to 300-400 ft massive, dull-bluish and cream dolomites; above these 200 ft of thin-bedded, granular limestone and compact blue limestones which grade into 3500-4000 ft massive magnesium limestone with chert in lower half. At top are limestones interstratified with sandy beds and strata of red, yellow and green clays (Taff, 1903)."
+  },
+  {
+    "code": "Ok",
+    "name": "Kindblade Formation",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "limestone, dolomite",
+    "description": "ARDMORE-SHERMAN- Limestone, gray to tan, fine-grained, gradational eastward into tan fine- to coarse-grained dolomite; some tan to gray sandstone and shale; thickness, 1,875 to 3,000 feet, decreasing eastward. (Arbuckle Group) Individual Fm description not found. Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Owk",
+    "name": "West Spring Creek and Kindblade Formations",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "dolomite, sandstone, conglomerate, limestone",
+    "description": "LAWTON- \"West Spring Creek Formation\" and \"Kindblade Formation,\" Owk, dolomite, dolomitic sandstone, conglomerate, and limestone; thickness, approximately 2,000 feet (600 m). (Upper part of Arbuckle Group). ARDMORE-SHERMAN- Limestone, gray to tan, fine-grained, gradational eastward into tan fine- to coarse-grained dolomite; some tan to gray sandstone and shale; thickness, 1,875 to 3,000 feet, decreasing eastward. (Arbuckle Group) Individual Fm description not found. Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Ocm",
+    "name": "Cool Creek and McKenzie Hill Formations",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "limestone, dolomite, sandstone, conglomerate",
+    "description": "LAWTON- \"Cool Creek Formation\" and \"McKenzie Hill Formation,\" Ocm, limestone and conglomerate with abundant quartz sand and cherty zones; thickness, approximately 2,000 feet (600 m). (Upper part of Arbuckle Group). ARDMORE-SHERMAN- Limestone, gray to tan, fine-grained, cherty, gradational eastward into dolomites and sandstones; thickness, 1,500 to 2,300 feet, decreasing eastward. (Arbuckle Group) Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Ob",
+    "name": "Blakely Sandstone",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "sandstone",
+    "description": "McALESTER TEXARKANA- Sandstone, gray to brown, fine- to coarse-grained, quartzose, micaceous; grades into beds above, with sharp quartzitic contact below; thickness, 10 to 15 feet, with maximum thickness in Arkansas 400 feet. Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Om",
+    "name": "Mazarn Shale",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "shale, phyllite",
+    "description": "McALESTER TEXARKANA- Shale and phyllite, dark-gray to black, micaceous; estimated thickness, 1,000 feet, with maximum thickness in Arkansas 3,000 feet. Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Ocs",
+    "name": "Crystal Mountain Sandstone",
+    "series": "Ordovician",
+    "max_age": "Early Ordovician",
+    "min_age": "Early Ordovician",
+    "lithology": "sandstone",
+    "description": "McALESTER TEXARKANA- Sandstone, pink to light-gray to dark-gray, fine- to coarse-grained, quartzose, with well-rounded, frosted grains, quartzitic, fractured in many places, with many quartz and orthoclase veins; 14-foot chert- and limestone-pebble conglomerate occurs at base; thickness, 500 feet or more, with maximum thickness in Arkansas 850 feet (called Lower Cool Creek in Arbuckle Mountains and Roubidoux Sandstone in Ozarks). Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  },
+  {
+    "code": "Oc",
+    "name": "Collier Shale",
+    "series": "Ordovician to Cambrian",
+    "max_age": "Late Cambrian",
+    "min_age": "Early Ordovician",
+    "lithology": "shale, phyllite, limestone",
+    "description": "McALESTER TEXARKANA- Shale and phyllite, dark-gray to black, with much limestone, some granitic and arkosic pebbles, many quartz and orthoclase pegmatities, and some galena and sphalerite; contains Lower Ordovician conodonts; base covered; exposed thickness, 200 feet. Viersen and Cochran's 25-1 Weyerhaeuser well (9-8-70), spudded in upper Collier to total depth of 10,019 feet in Southeast quarter of Northwest quarter of section 25, Township 5 South, Range 23 East, penetrated dark-gray to black phyllites, quartzites, and dolomitic marble without reaching basement (Goldstein, 1975). Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS. Comments: Is the oldest known formation in the Wichita Mountains of OK and AR, Ouachita tectonic belt province. Age changed to Late Cambrian and Early Ordovician."
+  },
+  {
+    "code": "Cat",
+    "name": "Lower part of Arbuckle Group and Timbered Hills Group",
+    "series": "Cambrian",
+    "max_age": "Late Cambrian",
+    "min_age": "Late Cambrian",
+    "lithology": "limestone, dolomite, siltstone, sandstone, conglomerate, and shale",
+    "description": "LAWTON- Limestone, dolomite, siltstone, sandstone, conglomerate, and shale, with glauconitic and hematitic zones; thickness, 1,200 to 2,000 feet (370 to 600 m), faulted in isolated areas. Lower part of \"Arbuckle Group\" includes \"Signal Mountain Formation, Royer Dolomite,\" and \"Fort Sill Limestone; Timbered Hills Group\" includes \"Honey Creek Formation\" and \"Reagan Sandstone.\""
+  },
+  {
+    "code": "Cb",
+    "name": "Arbuckle Group and Timbered Hills Group",
+    "series": "Cambrian",
+    "max_age": "Late Cambrian",
+    "min_age": "Late Cambrian",
+    "lithology": "limestone, dolomite",
+    "description": "CLINTON- Limestone and dolomite; one outlier at southern end of quadrangle, about 1,200 feet thick."
+  },
+  {
+    "code": "Cth",
+    "name": "Timbered Hills Group",
+    "series": "Cambrian",
+    "max_age": "Late Cambrian",
+    "min_age": "Late Cambrian",
+    "lithology": "sandstone, limestone, dolomite",
+    "description": "ARDMORE-SHERMAN- \"Honey Creek Limestone,\" above, is gray, fine grained; grades eastward into dolomite; thickness 90 to 250 feet. \"Reagan Sandstone,\" at base, is brown, coarse grained; thickness, 60 to 450 feet. Occurs in the ARBUCKLE MTNS. Comments: Comments: Timbered Hills Group: Named for East and West Timbered Hills of Arbuckle Mountains, South Oklahoma folded belt province. Group consists of (ascending): Reagan sandstone, brown quartzite and arkose conglomerate and coarse sandstones becoming limy at top, 460 ft thick; and Honey Creek formation, gray, crystalline, fossiliferous limestone containing glauconite, 124 ft thick."
+  },
+  {
+    "code": "Cp",
+    "name": "Colbert Porphyry",
+    "series": "Cambrian",
+    "max_age": "Middle Cambrian",
+    "min_age": "Middle Cambrian",
+    "lithology": "rhyolite porphyry",
+    "description": "ARDMORE-SHERMAN- Rhyolite porphyry, red-brown, flow-banded; thickness, 7,500 feet. Probably rests on 7,500 feet of metasedimentary and basaltic rocks in geosynclinal province of western Arbuckle Mountains. (525 million years old) Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Cbf",
+    "name": "Butterfly Dolomite + Signal Mountain Limestone + Royer Dolomite and Fort Sill Limestone",
+    "series": "Cambrian",
+    "max_age": "Late Cambrian",
+    "min_age": "Late Cambrian",
+    "lithology": "limestone, dolomite",
+    "description": "ARDMORE-SHERMAN- Limestone, gray, fine-grained, gradational eastward into tan to pink fine- to coarse-grained dolomites; thickness, 570 to 1,600 feet, decreasing eastward. (Arbuckle Group) Occurs in the ARBUCKLE MTNS."
+  },
+  {
+    "code": "Ccr",
+    "name": "Carlton Rhyolite Group",
+    "series": "Cambrian",
+    "max_age": "Middle Cambrian",
+    "min_age": "Middle Cambrian",
+    "lithology": "rhyolite flows, tuffs, conglomerate, diabase sills",
+    "description": "CLINTON- Rhyolite flows and tuffs; about 4,500 feet thick; one outlier is shown in southern part of mapped area. LAWTON- Rhyolite flows, tuffs, conglomerate beds, and diabase sills; thickness, 4,500 feet (1,370 m). Comments: Raised in rank to Carlton Rhyolite Group in area, southern Oklahoma, where it is present in \"Wichita Province\" (east to west, mostly in subsurface): western Bryan Co (Ouachita tectonic belt province); Marshall, Love, Carter, Murray, Jefferson, Stephens, Grady, Cotton, Comanche, Kiowa, and northern Greer Cos (South Oklahoma folded belt province); Jackson Co (Palo Duro basin); and Caddo, Beckham, and Washita Cos (Anadarko basin). Is an extrusive rock, consisting mainly of rhyolite flows and tuffs, together with beds of agglomerate and sills of diabase. Includes Colbert Porphyry of western Murray Co. Represents the last stage of basement-rock filling of the southern Oklahoma geosyncline. Maximum exposed thickness 3,600 ft on Bally Mountain [sec 34, T6N, R14W, Kiowa Co]. Lower part intruded by numerous thick sills of Wichita Granite Group; Wichita is the intrusive equivalent of Carlton."
+  },
+  {
+    "code": "Cwg",
+    "name": "Wichita Granite Group",
+    "series": "Cambrian",
+    "max_age": "Middle Cambrian",
+    "min_age": "Middle Cambrian",
+    "lithology": "granite",
+    "description": "CLINTON- Pink, medium-grained granite; three outliers have been mapped in the southern part of quadrangle. LAWTON- Granites of various textures; thickness, 600 to 15,000 feet (180 to 4,570 m). Comments: Probably named for Wichita Mountains of southern OK. Report area is southern Oklahoma, where it is present in (east to west, mostly subsurface): western Jefferson, Cotton, Comanche, Kiowa, and Greer Cos (South Oklahoma folded belt province); Beckham and Washita Cos (Anadarko basin); and Jackson and Harmon Cos (Palo Duro basin). Consists chiefly of perthite leucogranites of various textures representing multiple intrusions, in part having the form of extensive sills 600 to 1,500 ft thick intruding the lower part of the Carlton Rhyolite Group [revised--Carlton is the extrusive equivalent of Wichita], and in part occurring as irregular plutons and sills cutting all other rocks of the \"Wichita Province.\""
+  },
+  {
+    "code": "Cr",
+    "name": "Raggedy Mountain Gabbro Group",
+    "series": "Cambrian",
+    "max_age": "Early Cambrian",
+    "min_age": "Early Cambrian",
+    "lithology": "gabbro, anorthosite, diorite",
+    "description": "LAWTON- Gabbro, anorthosite, and diorite; thickness, as much as 10,000 feet (3,000 m). Comments: In southern Oklahoma, where it is present in: Comanche, Kiowa, and Greer Cos (South Oklahoma folded belt province); Tillman Co (Palo Duro basin); and Beckham Co (Anadarko basin). Consists of diallage and olivine gabbro, anorthosite, and diorite comprising a layered intrusion possibly 10,000 ft thick, injected as an elongate lens into rocks of the Late Precambrian or Lower Cambrian Tillman Metasedimentary Group (new), and is probably the chief stabilizing element of the horst-like evolution of the Wichita Mountains. Encountered in subsurface beneath Permian strata and in outcrops only in the most deeply eroded central part of Wichita Mountain uplift. Mapped (geologic map) in the Glen Mountains of Kiowa Co and in the Wichita Mountains of Comanche Co, both in OK in the South Oklahoma folded belt province. Glen Mountains Complex divided into the (ascending[?]) G, K, L, and M zones [informal designations]. Roosevelt Gabbros divided into the (ascending[?]) Mount Sheridan (new), Sandy Creek, and Glen Creek Gabbro Members."
+  },
+  {
+    "code": "pCt",
+    "name": "Tishomingo and Troy Granites",
+    "series": "preCambrian Proterozoic",
+    "max_age": "Middle Proterozoic",
+    "min_age": "Middle Proterozoic",
+    "lithology": "granite",
+    "description": "ARDMORE-SHERMAN- Granite, pink, with much microcline and biotite; \"Troy\" is fine grained; \"Tishomingo\" is coarse grained. Estimated thickness, 10 miles. (1.3 billion years old) Occurs in the ARBUCKLE MTNS. Comments: TISHOMINGO: Named for Tishomingo, capital of Chickasaw Nation, Indian Territory, Midcontinent region, Johnston Co, OK. No type locality designated. Occurs in Tishomingo quad Is a coarse-grained, pink or reddish, microcline-rich granite with numerous basic dikes. Biotite is always present. Accessory minerals are zircon, apatite, magnetite, and sometimes garnet. Quartz monzonite occurs in intimate association with the granite and appears as phases of it. TROY: Probably named for town of Troy, Johnston Co, OK, in Arbuckle Mountains district. Present on the southeastern flank of the exposed portion of the Arbuckle uplift, in Johnston Co (S. Oklahoma folded belt province) and Atoka Co (Ouachita tectonic belt province). Probably part of same intrusive body as Tishomingo granite, which is also present in this area. When unaltered, Troy is a medium- to fine-grained gray granite, speckled with black. It shows cleavage surfaces of a gray feldspar usually less than .5 mm broad, with occasionally a pinkish individual more than 1 cm across, rounded grains of colorless quartz, and many small black specks of biotite evenly distributed. There are 2 or 3 nearly vertical joint systems, spaced 2-40 ft apart, usually at right angles to each other. There are also strong sheet joints parallel or nearly parallel to the slopes of the granite hills, usually spaced 10-25 ft apart."
+  },
+  {
+    "code": "pCg",
+    "name": "Spavinaw Granite",
+    "series": "preCambrian Proterozoic",
+    "max_age": "Middle Proterozoic",
+    "min_age": "Middle Proterozoic",
+    "lithology": "granite, rhyolite",
+    "description": "TULSA- no description given. Comments: Exposed in few small outcrops near Spavinaw, Mayes Co, OK, Midcontinent region, however, data from over 300 drill holes indicate that terrane underlies most of northeast OK, eastern KS, southwest MO, and northern AR. Spavinaw consists of anorogenic epizonal granite and rhyolite that have not been regionally metamorphosed. Terrane includes Washington Volcanic Group, Spavinaw Granite Group, Osage Microgranite and Central Oklahoma Granite Group. U/Pb ages taken on zircons by other workers date Spavinaw at 1.40-1.35 Ga."
+  },
+  {
+    "code": "d",
+    "name": "Diorite Sill",
+    "series": "Ordovician ?",
+    "max_age": "Late Ordovician ?",
+    "min_age": "Late Ordovician ?",
+    "lithology": "diorite",
+    "description": "McALESTER TEXARKANA- Diorite, light-greenish-gray, medium- to fine-grained, quartz-free, with much andesine plagioclase and ferromagnesian minerals altered to chlorite and limonite; occurs in sections 10 and 15, Township 5 South, Range 23 East, in Womble Formation, striking North, 45 degrees East and dipping 10 degrees to 20 degrees Northwest; thickness, 2 to 10 feet. Occurs in POTATO HILLS, BROKEN BOW UPLIFT or ADJACENT SMALLER UPLIFTS IN SOUTHEASTERN PART OF OUACHITA MOUNTAINS."
+  }
+]

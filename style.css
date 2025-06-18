@@ -44,6 +44,9 @@ body {
     cursor: pointer;
     font-weight: bold;
 }
+.unit-age-text {
+    text-indent: 2.2rem;
+}
 #cursorCoordBox {
     position: fixed;
     bottom: 35px;
