@@ -128,13 +128,16 @@ map.on('load', () => {
           
           infoTab.innerHTML += `<button id="info-tab-close" type="button" class="btn-close" aria-label="Close">X</button>`
           // infoTab.innerHTML += `<p><strong>${featureProperties.ORIG_LABEL}</strong></p>`
-          infoTab.innerHTML += `<p><strong>${labels.get(featureProperties.ORIG_LABEL).unitName}</strong></p>`
           if (featureProperties.ORIG_LABEL != "WATER") {
+          infoTab.innerHTML += `<p><strong>${labels.get(featureProperties.ORIG_LABEL).unitName}</strong></p>`
             infoTab.innerHTML += `<p><strong>Age:</strong> ${featureProperties.UNIT_AGE}</p>`
             infoTab.innerHTML += `<p class="unit-age-text">${ageTimeScale.get(featureProperties.UNIT_LINK).start} Ma - ${ageTimeScale.get(featureProperties.UNIT_LINK).end} Ma</p>`
             infoTab.innerHTML += `<p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>`
             infoTab.innerHTML += `<p><strong>Description: </strong></p>`
             infoTab.innerHTML += `<p class="label-description">${labels.get(featureProperties.ORIG_LABEL).unitDescription}</p>`
+          }
+          else {
+            infoTab.innerHTML += "<strong>Water</strong>"
           }
         infoTab.classList.add('is-visible');
 
