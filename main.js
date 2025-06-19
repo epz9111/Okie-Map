@@ -1,5 +1,13 @@
 mapboxgl.accessToken = 'pk.eyJ1Ijoia2FpMTU2NzIiLCJhIjoiY21ibGJneTNlMHh4YjJsb2lmaWE3d2lvZSJ9.loXTJLQsuyE93k2E80zCVw';
 
+function cmykToRgb(c, m, y, k) {
+  return {
+    r: Math.round(255 * (1 - c / 100) * (1 - k / 100)),
+    g: Math.round(255 * (1 - m / 100) * (1 - k / 100)),
+    b: Math.round(255 * (1 - y / 100) * (1 - k / 100))
+  }
+}
+
 const map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/light-v11',
@@ -45,18 +53,6 @@ map.on('load', () => {
             labels.set(label.code, {unitName: label.name, unitDescription: label.description});
           }
         })
-
-      // Calls MacroStrat API for time unit data
-      // const ageTimeScale = new Map();
-      // fetch('https://macrostrat.org/api/v2/defs/intervals?all')
-      //   .then(response => response.json())
-      //   .then(ageData => {
-      //     for (const interval of ageData.success.data) {
-      //       if (uniqueAges.has(interval.name)) {
-      //         ageTimeScale.set(interval.name, { start: interval.b_age, end: interval.t_age });
-      //       }
-      //     }
-      //   })
       
       const ageTimeScale = new Map();
       fetch('data/OKage.json')
@@ -67,34 +63,54 @@ map.on('load', () => {
           }
         })
 
-      // Builds fill-color attribute for geography layer
-      let rockTypeFillColor = ['match', ['get', 'ROCKTYPE1']];
-      let i = 0;
-      uniqueRockTypes.forEach(rockType => {
-        rockTypeFillColor.push(rockType, colorPalette[i % colorPalette.length]);
-        i++;
-      })
-      rockTypeFillColor.push('#cccccc')
+
+
+      // // Builds fill-color attribute for geography layer
+      // let rockTypeFillColor = ['match', ['get', 'ROCKTYPE1']];
+      // let i = 0;
+      // uniqueRockTypes.forEach(rockType => {
+      //   rockTypeFillColor.push(rockType, colorPalette[i % colorPalette.length]);
+      //   i++;
+      // })
+      // rockTypeFillColor.push('#cccccc')
 
       map.addSource('geology-data-source', {
         'type': 'geojson',
         'data': geologyData
       });
 
-      map.addLayer({
-        'id': 'geology-polygons-layer',
-        'type': 'fill',
-        'source': 'geology-data-source',
-        'paint': {
-          'fill-color': rockTypeFillColor,
-          'fill-opacity': 0.7,
-          'fill-outline-color': [
-            'interpolate', ['linear'], ['zoom'],
-            6, 'rgba(0, 0, 0, 0)',
-            15, 'rgba(0, 0, 0, 1)'
-          ]
-        }
-      });
+      let labelFillColor = ['match', ['get', 'ORIG_LABEL']];
+      fetch('data/OK_color.json')
+        .then(response => response.json())
+        .then(colorData => {
+
+          console.log("Color data loaded successfully:  ", colorData);
+
+          // Label fill-color
+          let uniqueSymbols = new Set();
+          for (const color of colorData) {
+            rgbColorVal = cmykToRgb(color.C, color.M, color.Y, color.K);
+            if (!uniqueSymbols.has(color.SYM1)) {
+              labelFillColor.push(color.SYM1, `rgb(${rgbColorVal.r}, ${rgbColorVal.g}, ${rgbColorVal.b})`);
+            }
+            uniqueSymbols.add(color.SYM1);
+          }
+          labelFillColor.push("rgb(204, 204, 204)");
+          map.addLayer({
+            'id': 'geology-polygons-layer',
+            'type': 'fill',
+            'source': 'geology-data-source',
+            'paint': {
+              'fill-color': labelFillColor,
+              'fill-opacity': 0.7,
+              'fill-outline-color': [
+                'interpolate', ['linear'], ['zoom'],
+                6, 'rgba(0, 0, 0, 0)',
+                15, 'rgba(0, 0, 0, 1)'
+              ]
+            }
+          });
+        })
 
       console.log("Geology layer has been added to the map.");
       // Creates marker and deletes previous one
@@ -111,13 +127,14 @@ map.on('load', () => {
         infoTab.innerHTML = ``;
           
           infoTab.innerHTML += `<button id="info-tab-close" type="button" class="btn-close" aria-label="Close">X</button>`
-          infoTab.innerHTML += `<p><strong>${featureProperties.ORIG_LABEL}</strong></p>`
+          // infoTab.innerHTML += `<p><strong>${featureProperties.ORIG_LABEL}</strong></p>`
           infoTab.innerHTML += `<p><strong>${labels.get(featureProperties.ORIG_LABEL).unitName}</strong></p>`
           if (featureProperties.ORIG_LABEL != "WATER") {
             infoTab.innerHTML += `<p><strong>Age:</strong> ${featureProperties.UNIT_AGE}</p>`
             infoTab.innerHTML += `<p class="unit-age-text">${ageTimeScale.get(featureProperties.UNIT_LINK).start} Ma - ${ageTimeScale.get(featureProperties.UNIT_LINK).end} Ma</p>`
             infoTab.innerHTML += `<p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>`
-            infoTab.innerHTML += `<p><strong>Description: </strong>${labels.get(featureProperties.ORIG_LABEL).unitDescription}</p>`
+            infoTab.innerHTML += `<p><strong>Description: </strong></p>`
+            infoTab.innerHTML += `<p class="label-description">${labels.get(featureProperties.ORIG_LABEL).unitDescription}</p>`
           }
         infoTab.classList.add('is-visible');
 
@@ -125,6 +142,7 @@ map.on('load', () => {
         const closeButton = document.getElementById("info-tab-close");
         closeButton.addEventListener('click', () => {
           infoTab.classList.remove('is-visible');
+          if (curMarker != null) { curMarker.remove(); }
         }) 
       });
 
@@ -149,6 +167,4 @@ map.on('load', () => {
     .catch(error => {
       console.error('Error loading the geology data:', error);
     });
-
-  
 });

@@ -47,6 +47,10 @@ body {
 .unit-age-text {
     text-indent: 2.2rem;
 }
+.label-description {
+    max-height: 500px;
+    overflow-y: auto;
+}
 #cursorCoordBox {
     position: fixed;
     bottom: 35px;
