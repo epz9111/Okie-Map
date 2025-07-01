@@ -10,7 +10,7 @@ function cmykToRgb(c, m, y, k) {
 
 const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/light-v11',
+  style: 'mapbox://styles/mapbox/satellite-streets-v12',
   center: [-98.5, 35.5],
   zoom: 7,
   minZoom: 6
@@ -96,6 +96,7 @@ map.on('load', () => {
             uniqueSymbols.add(color.SYM1);
           }
           labelFillColor.push("rgb(204, 204, 204)");
+
           map.addLayer({
             'id': 'geology-polygons-layer',
             'type': 'fill',
@@ -106,11 +107,22 @@ map.on('load', () => {
               'fill-outline-color': [
                 'interpolate', ['linear'], ['zoom'],
                 6, 'rgba(0, 0, 0, 0)',
-                15, 'rgba(0, 0, 0, 1)'
+                12, 'rgba(0, 0, 0, 1)'
               ]
             }
-          });
+          }, 'settlement-minor-label');
         })
+
+      // Layer toggle button functionality
+      const ageToggleButton = document.getElementById("ageToggle");
+      ageToggleButton.addEventListener('click', () => {
+        if (ageToggleButton.checked) {
+          map.setPaintProperty('geology-polygons-layer', 'fill-opacity', 0.7);
+        }
+        else {
+          map.setPaintProperty('geology-polygons-layer', 'fill-opacity', 0.0);
+        }
+      });
 
       console.log("Geology layer has been added to the map.");
       // Creates marker and deletes previous one

@@ -19,11 +19,12 @@ body {
     top: 50px;
     right: -50px;
     z-index: 10;
-    width: 250px;
+    width: 300px;
     padding: 15px;
     background-color: #202020;
     border-radius: 5px;
     color: white;
+    font-size: 20px;
     transition:
         right .5s ease-in-out,
         opacity .2s ease-in-out,
@@ -50,19 +51,31 @@ body {
 .label-description {
     max-height: 500px;
     overflow-y: auto;
+    scrollbar-color: white #202020;
 }
-#cursorCoordBox {
+#toggle-and-coord {
     position: fixed;
     bottom: 35px;
     left: 7px;
     z-index: 10;
-    display: flex;
-    background-color: black;
-    opacity: .65;
+    display: grid;
+    gap: 5px;
     border-radius: 5px;
     font-size: 15px;
     color: white;
 }
+#cursorCoordBox {
+    display: flex;
+    background-color: black;
+    opacity: .65;
+    border-radius: 5px;
+}
 #cursorCoordBox > p {
     margin: 7px;
+}
+#layer-toggle {
+    background-color: black;
+    opacity: .65;
+    border-radius: 5px;
+    padding-block: 5px;
 }
