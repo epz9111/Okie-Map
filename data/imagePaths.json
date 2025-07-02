@@ -1,0 +1,102 @@
+[
+  {
+    "rocktype": "alluvium",
+    "path": "data/Images/Alluvium.jpg"
+  },
+  {
+    "rocktype": "anorthosite",
+    "path": "data/Images/Anorthocite.jpg"
+  },
+  {
+    "rocktype": "basalt",
+    "path": "data/Images/Basalt.jpg"
+  },
+  {
+    "rocktype": "carbonate",
+    "path": "data/Images/Carbonate.jpg"
+  },
+  {
+    "rocktype": "chert",
+    "path": "data/Images/Chert.jpg"
+  },
+  {
+    "rocktype": "clay or mud",
+    "path": "data/Images/Clay.webp"
+  },
+  {
+    "rocktype": "claystone",
+    "path": "data/Images/Claystone.webp"
+  },
+  {
+    "rocktype": "coal",
+    "path": "data/Images/Coal.webp"
+  },
+  {
+    "rocktype": "conglomerate",
+    "path": "data/Images/Conglomerate.webp"
+  },
+  {
+    "rocktype": "diorite",
+    "path": "data/Images/Diorite.jpg"
+  },
+  {
+    "rocktype": "dolostone (dolomite)",
+    "path": "data/Images/Dolostone (Dolomite).jpg"
+  },
+  {
+    "rocktype": "evaporite",
+    "path": "data/Images/Evaporite.jpg"
+  },
+  {
+    "rocktype": "gabbro",
+    "path": "data/Images/Gabbro.jpg"
+  },
+  {
+    "rocktype": "granite",
+    "path": "data/Images/Granite.jpg"
+  },
+  {
+    "rocktype": "gravel",
+    "path": "data/Images/Gravel.webp"
+  },
+  {
+    "rocktype": "limestone",
+    "path": "data/Images/Limestone.webp"
+  },
+  {
+    "rocktype": "mudstone",
+    "path": "data/Images/Mudstone.jpeg"
+  },
+  {
+    "rocktype": "novaculite",
+    "path": "data/Images/Novaculite.jpg"
+  },
+  {
+    "rocktype": "phyllite",
+    "path": "data/Images/Phyllite.jpg"
+  },
+  {
+    "rocktype": "rhyolite",
+    "path": "data/Images/Rhyolite.jpg"
+  },
+  {
+    "rocktype": "sand",
+    "path": "data/Images/Sand.jpg"
+  },
+  {
+    "rocktype": "sandstone",
+    "path": "data/Images/Sandstone.webp"
+  },
+  {
+    "rocktype": "shale",
+    "path": "data/Images/Shale.jpg"
+  },
+  {
+    "rocktype": "silt",
+    "path": "data/Images/Silt.jpg"
+  },
+  {
+    "rocktype": "siltstone",
+    "path": "data/Images/Siltstone.jpg"
+  }
+]

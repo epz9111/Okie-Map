@@ -40,6 +40,17 @@ map.on('load', () => {
         uniqueRockTypes.add(feature.properties.ROCKTYPE2);
       }
 
+      console.log(uniqueRockTypes);
+      const rockImages = new Map();
+      fetch('data/imagePaths.json')
+        .then(response => response.json())
+        .then(imagePaths => {
+          for (const rock of imagePaths) {
+            rockImages.set(rock.rocktype, rock.path);
+          }
+        })
+      console.log(rockImages);
+
       // Iterates through Legend and its assoc. data
       const labels = new Map();
       fetch('data/OKUnitsFull.json')
@@ -145,6 +156,9 @@ map.on('load', () => {
             infoTab.innerHTML += `<p><strong>Age:</strong> ${featureProperties.UNIT_AGE}</p>`
             infoTab.innerHTML += `<p class="unit-age-text">${ageTimeScale.get(featureProperties.UNIT_LINK).start} Ma - ${ageTimeScale.get(featureProperties.UNIT_LINK).end} Ma</p>`
             infoTab.innerHTML += `<p><strong>Main Rock Type:</strong> ${featureProperties.ROCKTYPE1[0].toUpperCase() + featureProperties.ROCKTYPE1.slice(1)}</p>`
+            if (rockImages.has(featureProperties.ROCKTYPE1)) {
+              infoTab.innerHTML += `<img src="${rockImages.get(featureProperties.ROCKTYPE1)}" alt="Rock sample" id="rock-sample-img">`
+            }
             infoTab.innerHTML += `<p><strong>Description: </strong></p>`
             infoTab.innerHTML += `<p class="label-description">${labels.get(featureProperties.ORIG_LABEL).unitDescription}</p>`
           }

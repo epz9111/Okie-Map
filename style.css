@@ -21,6 +21,9 @@ body {
     z-index: 10;
     width: 300px;
     padding: 15px;
+    max-height: 75%;
+    display: flex;
+    flex-direction: column;
     background-color: #202020;
     border-radius: 5px;
     color: white;
@@ -32,13 +35,16 @@ body {
 }
 #info-tab.is-visible {
     visibility: visible;
-    opacity: .80;
+    opacity: 1;
     right: 50px;
     transition-delay: 0ms;
 
 }
+#info-tab > p {
+    margin: 8px;
+}
 .btn-close {
-    float: right;
+    margin-left: auto;
     color: white;
     background-color: transparent;
     border: none;
@@ -52,6 +58,13 @@ body {
     max-height: 500px;
     overflow-y: auto;
     scrollbar-color: white #202020;
+}
+#rock-sample-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    opacity: 100%;
+    margin-inline: 10px;
 }
 #toggle-and-coord {
     position: fixed;
